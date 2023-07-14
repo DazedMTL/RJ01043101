@@ -1480,7 +1480,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Collect all the pants *Underwear\ncan be changed",
+        "description": "Collect all the panties *Underwear\ncan be changed",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -3947,7 +3947,7 @@
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "Complete Pants",
+        "name": "Complete Panties",
         "note": "",
         "occasion": 0,
         "repeats": 1,
