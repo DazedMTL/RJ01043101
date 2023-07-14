@@ -1745,7 +1745,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT \\v[136]M\\v[137]D　\\v[140]　　Days　Remaining\\v[273] 15"
+                                "D_TEXT \\v[136]\\v[137]M\\v[138]\\v[139]D\\v[273]　\\c[14]\\v[140]　Days　Remaining 15"
                             ]
                         },
                         {
