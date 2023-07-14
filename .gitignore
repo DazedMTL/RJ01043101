@@ -6,6 +6,7 @@ www/img/*
 !*.json
 !*.js
 !*.zip
+!*.7z
 !.gitignore
 !README.md
 package.json
