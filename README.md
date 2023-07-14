@@ -2,6 +2,7 @@
 1. Click Code
 2. Click Download ZIP
 3. Extract to game folder and Replace All.
+4. Extract pictures.7z in www/img to updated pictures.
 
 # How To Contribute
 TLDR 3 steps.
