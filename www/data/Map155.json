@@ -70583,48 +70583,6 @@
                             ]
                         },
                         {
-                            "code": 117,
-                            "indent": 3,
-                            "parameters": [
-                                158
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 3,
-                            "parameters": [
-                                "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 3,
-                            "parameters": [
-                                96
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 3,
-                            "parameters": [
-                                "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 3,
-                            "parameters": [
-                                565
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 3,
-                            "parameters": [
-                                "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
                             "code": 356,
                             "indent": 3,
                             "parameters": [
@@ -70632,50 +70590,10 @@
                             ]
                         },
                         {
-                            "code": 122,
-                            "indent": 3,
-                            "parameters": [
-                                158,
-                                158,
-                                0,
-                                0,
-                                5
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 3,
-                            "parameters": [
-                                159,
-                                159,
-                                0,
-                                0,
-                                6
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 3,
-                            "parameters": [
-                                160,
-                                160,
-                                0,
-                                0,
-                                3
-                            ]
-                        },
-                        {
                             "code": 108,
                             "indent": 3,
                             "parameters": [
                                 "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 3,
-                            "parameters": [
-                                "ShowInfo ◆\\c[14]深夜のジカン\\c[0]になった。"
                             ]
                         },
                         {
@@ -71110,18 +71028,6 @@
                             "parameters": []
                         },
                         {
-                            "code": 250,
-                            "indent": 2,
-                            "parameters": [
-                                {
-                                    "name": "触る (2)",
-                                    "volume": 90,
-                                    "pitch": 100,
-                                    "pan": 0
-                                }
-                            ]
-                        },
-                        {
                             "code": 111,
                             "indent": 2,
                             "parameters": [
@@ -71130,48 +71036,6 @@
                                 0,
                                 1,
                                 0
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 3,
-                            "parameters": [
-                                "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 3,
-                            "parameters": [
-                                158
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 3,
-                            "parameters": [
-                                "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 3,
-                            "parameters": [
-                                96
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 3,
-                            "parameters": [
-                                "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 3,
-                            "parameters": [
-                                565
                             ]
                         },
                         {
@@ -71193,53 +71057,6 @@
                             "indent": 3,
                             "parameters": [
                                 "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 3,
-                            "parameters": [
-                                158,
-                                158,
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 3,
-                            "parameters": [
-                                159,
-                                159,
-                                0,
-                                0,
-                                3
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 3,
-                            "parameters": [
-                                160,
-                                160,
-                                0,
-                                0,
-                                16
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 3,
-                            "parameters": [
-                                "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 3,
-                            "parameters": [
-                                "ShowInfo ◆\\c[14]午後のジカン\\c[0]になった。"
                             ]
                         },
                         {
@@ -71278,48 +71095,6 @@
                             ]
                         },
                         {
-                            "code": 117,
-                            "indent": 3,
-                            "parameters": [
-                                158
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 3,
-                            "parameters": [
-                                "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 3,
-                            "parameters": [
-                                96
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 3,
-                            "parameters": [
-                                "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 3,
-                            "parameters": [
-                                565
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 3,
-                            "parameters": [
-                                "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
                             "code": 356,
                             "indent": 3,
                             "parameters": [
@@ -71327,50 +71102,10 @@
                             ]
                         },
                         {
-                            "code": 122,
-                            "indent": 3,
-                            "parameters": [
-                                158,
-                                158,
-                                0,
-                                0,
-                                3
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 3,
-                            "parameters": [
-                                159,
-                                159,
-                                0,
-                                0,
-                                4
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 3,
-                            "parameters": [
-                                160,
-                                160,
-                                0,
-                                0,
-                                19
-                            ]
-                        },
-                        {
                             "code": 108,
                             "indent": 3,
                             "parameters": [
                                 "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 3,
-                            "parameters": [
-                                "ShowInfo ◆\\c[14]夕方のジカン\\c[0]になった。"
                             ]
                         },
                         {
@@ -71409,48 +71144,6 @@
                             ]
                         },
                         {
-                            "code": 117,
-                            "indent": 3,
-                            "parameters": [
-                                158
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 3,
-                            "parameters": [
-                                "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 3,
-                            "parameters": [
-                                96
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 3,
-                            "parameters": [
-                                "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 3,
-                            "parameters": [
-                                565
-                            ]
-                        },
-                        {
-                            "code": 108,
-                            "indent": 3,
-                            "parameters": [
-                                "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
                             "code": 356,
                             "indent": 3,
                             "parameters": [
@@ -71458,50 +71151,10 @@
                             ]
                         },
                         {
-                            "code": 122,
-                            "indent": 3,
-                            "parameters": [
-                                158,
-                                158,
-                                0,
-                                0,
-                                4
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 3,
-                            "parameters": [
-                                159,
-                                159,
-                                0,
-                                0,
-                                5
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 3,
-                            "parameters": [
-                                160,
-                                160,
-                                0,
-                                0,
-                                22
-                            ]
-                        },
-                        {
                             "code": 108,
                             "indent": 3,
                             "parameters": [
                                 "ーーーーーーーーーーーーーーーーーー"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 3,
-                            "parameters": [
-                                "ShowInfo ◆\\c[14]夜分のジカン\\c[0]になった。"
                             ]
                         },
                         {
