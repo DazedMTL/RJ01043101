@@ -126,7 +126,7 @@
         "身体",
         "装飾品"
     ],
-    "gameTitle": "あまえんぼ冬(ver1.02）",
+    "gameTitle": "あまえんぼ冬(ver1.01b)",
     "gameoverMe": {
         "name": "Gameover1",
         "pan": 0,
@@ -1005,8 +1005,8 @@
         "",
         "",
         "",
-        "★睡眠悪戯後処理中",
-        "☆Shift連動ピクチャ禁止",
+        "",
+        "",
         "",
         "",
         "",
@@ -4793,7 +4793,7 @@
         "",
         ""
     ],
-    "versionId": 71977904,
+    "versionId": 17471846,
     "victoryMe": {
         "name": "Victory1",
         "pan": 0,
