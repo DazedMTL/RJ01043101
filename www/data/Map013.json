@@ -17435,7 +17435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It would be nice if we could play a lot today too\\kw[1]"
+                                "It would be nice if we could\nplay a lot today too\\kw[1]"
                             ]
                         },
                         {
