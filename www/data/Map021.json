@@ -1611,7 +1611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter your name.\\. \\C[14]※This game uses a \\C[14]\nkeyboard and mouse."
+                                "Please enter your name.\\n\\C[14]※This game uses a\\C[14]keyboard and mouse. \\n\\C[18]10 Characters MAX"
                             ]
                         },
                         {
@@ -1630,7 +1630,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "InputForm x=270;y=170;n=1;max=4;btn_x=0;btn_y=30;init_n=1;"
+                                "InputForm x=270;y=170;n=1;max=10;btn_x=0;btn_y=30;init_n=1;"
                             ]
                         },
                         {
