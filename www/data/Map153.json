@@ -2839,7 +2839,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Chu[pause] kw[1]\\. Wait for me...?\\kw[1]"
+                                "Chu[pause] \\kw[1]\\. Wait for me...?\\kw[1]"
                             ]
                         },
                         {
@@ -5670,7 +5670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Today, too, with my onee-chan, lots of fun ...\\ kw[1]"
+                                "Today, too, with my onee-chan, lots of fun ...\\kw[1]"
                             ]
                         },
                         {

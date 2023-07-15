@@ -3770,7 +3770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun ......\\ \\kw[1]"
+                                "\\n[1]-kun ......\\kw[1]"
                             ]
                         },
                         {
@@ -5671,7 +5671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shaking my hips a lot ...\\ kw[1] Ahh \\kw[1]"
+                                "Shaking my hips a lot ...\\kw[1] Ahh \\kw[1]"
                             ]
                         },
                         {
@@ -7267,7 +7267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe...\\ kw[1] Good job, \\n[1]-kun\\kw[2]"
+                                "Hehe...\\kw[1] Good job, \\n[1]-kun\\kw[2]"
                             ]
                         },
                         {

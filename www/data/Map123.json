@@ -2085,7 +2085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Getting all worked up even before entering the store ......\\\n[kw[1]]"
+                                "Getting all worked up even before entering the store ......\\\n\\kw[1]"
                             ]
                         },
                         {
@@ -2596,7 +2596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The way to the hotel when called ...\\ [kw[1]]"
+                                "The way to the hotel when called ...\\kw[1]"
                             ]
                         },
                         {

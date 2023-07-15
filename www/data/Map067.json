@@ -10148,7 +10148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I also want to eat \\n[1]-kun's cooking again. ...\\ [kw[1]]"
+                                "I also want to eat \\n[1]-kun's cooking again. ...\\kw[1]"
                             ]
                         },
                         {
@@ -10559,7 +10559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ehehe ...\\ \\kw[1]"
+                                "Ehehe ...\\kw[1]"
                             ]
                         },
                         {
@@ -12566,7 +12566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I have to feel a lot before we break up, kw[1]"
+                                "I have to feel a lot before we break up, \\kw[1]"
                             ]
                         },
                         {
@@ -15123,7 +15123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun ...\\ [kw[1]]"
+                                "\\n[1]-kun ...\\kw[1]"
                             ]
                         },
                         {

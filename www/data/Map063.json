@@ -12840,7 +12840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nnn ......\\ kw[1]"
+                                "Nnn ......\\kw[1]"
                             ]
                         },
                         {
@@ -13898,7 +13898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Chu[kw[1]]n...t\\kw[1] Chu[p1]t\\kw[1]"
+                                "Chu\\kw[1]n...t\\kw[1] Chu\\kw[1]t\\kw[1]"
                             ]
                         },
                         {

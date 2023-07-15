@@ -6831,7 +6831,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Playing pranks while ...\\ is sleeping kw[1]"
+                                "Playing pranks while ... is sleeping \\kw[1]"
                             ]
                         },
                         {
