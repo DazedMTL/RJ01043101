@@ -1611,7 +1611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter your name.\\n\\C[14]※This game uses a\\C[14]keyboard and mouse. \\n\\C[18]10 Characters MAX"
+                                "Please enter your name. \\C[18](MAX 10)\n\\C[14]※This game operates with keyboard and mouse."
                             ]
                         },
                         {
@@ -1663,7 +1663,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is '\\n[1]' okay? \\C[14]※The heroines will call you '\\n[1]',\n\\C[14] or '\\n[1]-kun', etc.."
+                                "So your name is \\n[1]? \n\\C[14]※The heroines will call you \\n[1], or \\n[1]-kun"
                             ]
                         },
                         {
@@ -2413,7 +2413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ".........\\. Huh.........?"
+                                "...Uhn...?"
                             ]
                         },
                         {
@@ -2460,7 +2460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother Oh, \\. finally awake?"
+                                "Mother:\nOh,\\. are you awake, dear?"
                             ]
                         },
                         {
@@ -2484,7 +2484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mom......"
+                                "Mom..."
                             ]
                         },
                         {
@@ -2508,7 +2508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother Hehe\\kw[1]\\. You seemed to have a very happy sleeping\nface, didn't you?"
+                                "Mother:\nHehe\\kw[1]\\.\nYour sleeping face seemed so happy."
                             ]
                         },
                         {
@@ -2525,7 +2525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother I wonder if you had a nice dream?"
+                                "Mother:\nDid you have a nice dream?"
                             ]
                         },
                         {
@@ -2652,7 +2652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I, \\.I......\\. was making that kind of face...?"
+                                "D-Did I...?"
                             ]
                         },
                         {
@@ -2698,7 +2698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father Hahaha!"
+                                "Father:\nHahaha!"
                             ]
                         },
                         {
@@ -2715,7 +2715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father Perhaps \\c[14]Yui\\c[0]-chan and \\c[14]Rio\\c[0]-chan\nwere in your dream, weren't they?"
+                                "Father:\nPerhaps you dreamed of \\c[14]Yui\\c[0]-chan and \\c[14]Rio\\c[0]-chan, no?"
                             ]
                         },
                         {
@@ -2817,7 +2817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother Hehe\\kw[1]. Yes, \\.you were looking forward to seeing\nthem again, weren't you?."
+                                "Mother:\nHehe\\kw[1]\nYou were looking forward to meet\nthem again for some time, after all."
                             ]
                         },
                         {
@@ -2873,7 +2873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, \\.ahaha......"
+                                "Ah, \\.ahaha..."
                             ]
                         },
                         {
@@ -2897,7 +2897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother Even so, ......."
+                                "Mother:\nStill..."
                             ]
                         },
                         {
@@ -2914,7 +2914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother I wonder if it's really okay to leave you in their care for\nthe second time after summer ...?"
+                                "Mother:\nWe're wondering if it's okay to leave you in their care\nfor the second time after summer..."
                             ]
                         },
                         {
@@ -2931,7 +2931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother I hope we're not burdening \\c[14]Miyuki\\c[0] and the\nothers too much..."
+                                "Mother:\nWe hope we aren't bothering\n\\c[14]Miyuki\\c[0]'s family too much..."
                             ]
                         },
                         {
@@ -3009,7 +3009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah......"
+                                "Ah..."
                             ]
                         },
                         {
@@ -3033,7 +3033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father 'I think there's no need to worry about that, right?"
+                                "Father:\nShould be fine, I think?"
                             ]
                         },
                         {
@@ -3050,7 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father After all, it seems like the suggestion to come and\nplay during the holiday was \\c[14]Miyuki's idea\\c[0], so\nthere's no need to worry.."
+                                "Father:\nIt was \\c[14]Miyuki's idea\\c[0] to come and play\nfor the holiday, after all."
                             ]
                         },
                         {
@@ -3156,7 +3156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother Oh, was that so?"
+                                "Mother:\nOh, she said that?"
                             ]
                         },
                         {
@@ -3173,7 +3173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father With \\c[14]Masakazu\\c[0] being busy with work and\nall, having \\n[1] around helps in various ways.."
+                                "Father:\nAlso, \\c[14]Masakazu\\c[0] is very busy with work during these time.\nOur boy could provide some help for them."
                             ]
                         },
                         {
@@ -3190,7 +3190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother I can't imagine this boy being of much help, even\nthough they say 'any man's help is good' ......\\. ..."
+                                "Mother:\nI'm not sure about that.\nThough an extra man in the house could be useful."
                             ]
                         },
                         {
@@ -3268,7 +3268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "N-No, that's not true at all!"
+                                "T-Trust me, I could help out too!"
                             ]
                         },
                         {
@@ -3292,7 +3292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father Besides, I hate to say it, but there aren't many\nplaces to play around there..."
+                                "Father:\nConsidering there aren't many places\nto play around there..."
                             ]
                         },
                         {
@@ -3309,7 +3309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father Isn't Yui and Rio also happy that \\n[1] is coming?"
+                                "Father:\nI think Yui and Rio are also happy that \\n[1] is coming?"
                             ]
                         },
                         {
@@ -3365,7 +3365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah......"
+                                "Ah..."
                             ]
                         },
                         {
@@ -3389,7 +3389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother Hehe\\kw[1]\\. I hope that's the case."
+                                "Mother:\nHehe\\kw[1]\\. I hope you're right."
                             ]
                         },
                         {
@@ -3406,7 +3406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother But, \\. okay, \\n[1]? \\. You will do your homework and\nhelp out, right?"
+                                "Mother:\nUnderstand, \\n[1]?\\.\nDo your homework and help out around the house."
                             ]
                         },
                         {
@@ -3423,7 +3423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother 'Make sure you don't become a nuisance by just\nplaying around, okay?'"
+                                "Mother:\nMake sure you don't cause any trouble for them, okay?"
                             ]
                         },
                         {
@@ -3501,7 +3501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I, I understand...!"
+                                "U-Understood...!"
                             ]
                         },
                         {
@@ -3576,7 +3576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father Oh ......\\.! ......!"
+                                "Father:\nOh...!"
                             ]
                         },
                         {
@@ -3593,7 +3593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father '\\n[1], try looking outside."
+                                "Father:\n\\n[1], try look outside."
                             ]
                         },
                         {
@@ -3649,7 +3649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Outside......?"
+                                "Outside...?"
                             ]
                         },
                         {
@@ -3835,7 +3835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wow......\\., it's snowing!"
+                                "Wow...\\. It's snowing!"
                             ]
                         },
                         {
@@ -3875,7 +3875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother Oh, it's beautiful.\\.. Come to think of it, the\nforecast did say it would start tonight.."
+                                "Mother:\nSo pretty.\\.\nCome to think of it, the forecast said\nit'd be snowing tonight."
                             ]
                         },
                         {
@@ -3892,7 +3892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother 'I wonder if it will accumulate this winter....\\.. I\nwonder if the way home will be okay?"
+                                "Mother:\nI hope it doesn't pile too much on our way home."
                             ]
                         },
                         {
@@ -3909,7 +3909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father I wonder about that......"
+                                "Father:\nWe don't know yet..."
                             ]
                         },
                         {
@@ -3926,7 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father It might be better to hurry a little.\\.. It seems\nlike there aren't many street lights around here.."
+                                "Father:\nMaybe we should hurry a bit.\\.\nThere aren't many traffic lights anyway."
                             ]
                         },
                         {
@@ -3943,7 +3943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother Hehe \\kw[1]\\. It seems like it's going to be a white\nChristmas this year \\kw[1]"
+                                "Mother:\nIt's going to be a white Christmas this year.\\kw[1]"
                             ]
                         },
                         {
@@ -3984,7 +3984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's beautiful, isn't it..."
+                                "So pretty..."
                             ]
                         },
                         {

@@ -1790,7 +1790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Good evening~!"
+                                "Good evening!"
                             ]
                         },
                         {
@@ -1902,7 +1902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, they've arrived."
+                                "Mom, they've arrived."
                             ]
                         },
                         {
@@ -2025,7 +2025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, \\.Rio-nee! \\. Yui-oneechan!"
+                                "Ah, \\.Rio-nee!\\. Yui-oneechan!"
                             ]
                         },
                         {
@@ -2270,7 +2270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. Welcome! Have you been well?"
+                                "Hehe\\kw[1] Welcome!\\.\nHave you been well?"
                             ]
                         },
                         {
@@ -2342,7 +2342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Haven't you been lonely without onee-chan \\. for the past\nsix months~?"
+                                "Have you been lonely without us\\.\nfor the past six months?"
                             ]
                         },
                         {
@@ -2359,7 +2359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm so happy~\\kw[1]\\^"
+                                "I'm so happy to see you.\\kw[1]\\^"
                             ]
                         },
                         {
@@ -2437,7 +2437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, \\. stop it Rio-nee!"
+                                "Don't tease me, Rio-nee!"
                             ]
                         },
                         {
@@ -2593,7 +2593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As always, you're full of energy, aren't you \\n[1]-kun\\kw[1]"
+                                "You're full of energy as always, \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {
@@ -2649,7 +2649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, Aunt Miyuki!"
+                                "Aunt Miyuki!"
                             ]
                         },
                         {
@@ -2788,7 +2788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother It's been a while, Miyuki-san."
+                                "Mother:\nIt's been a while, Miyuki-san."
                             ]
                         },
                         {
@@ -2805,7 +2805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father Hey, are you doing well?"
+                                "Father:\nHello, have you been doing well?"
                             ]
                         },
                         {
@@ -2829,7 +2829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's been a while, Sachiko-san and big brother ."
+                                "It's been a while, Sachiko-san and Nii-san."
                             ]
                         },
                         {
@@ -2889,7 +2889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's great to see both of you doing well."
+                                "It's great to see you two doing well."
                             ]
                         },
                         {
@@ -2913,7 +2913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother I'm sorry, Miyuki-san.\\.. Our \\n[1] has been selfishly\nsaying he wants to go play again...."
+                                "Mother:\nWe're sorry, Miyuki-san.\\.\nOur \\n[1] keeps saying that\nhe wants to come play again...."
                             ]
                         },
                         {
@@ -2966,7 +2966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm also happy to be able to spend time with \\n[1]-kun\nagain\\kw[1]"
+                                "I'm also glad to have \\n[1]-kun\nvisit us again.\\kw[1]"
                             ]
                         },
                         {
@@ -3015,7 +3015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Good evening, \\. It's been a while ."
+                                "Good evening.\\.\nLong time no see."
                             ]
                         },
                         {
@@ -3061,7 +3061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother: Oh, is that you, Masakazu-kun? \\. It's been a while,\nhasn't it!"
+                                "Mother:\nOh, is that you, Masakazu-kun?\\.\nIt's been a while, hasn't it!"
                             ]
                         },
                         {
@@ -3243,7 +3243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father: Oh! Is that you, Masakazu-kun? \\. You've become\nquite handsome since the last time I saw you!"
+                                "Father:\nOh! Masakazu-kun?\\.\nYou've become quite handsome\nsince the last time I saw you!"
                             ]
                         },
                         {
@@ -3291,7 +3291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother I'm sorry about the other day, I couldn't even greet\nyou, we just passed each other by ......"
+                                "Mother:\nWe're sorry about the other day.\nWe couldn't even greet you properly."
                             ]
                         },
                         {
@@ -3315,7 +3315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, I was also busy with work...."
+                                "It's fine, I was busy with work that time."
                             ]
                         },
                         {
@@ -3332,7 +3332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You must be tired from your long journey, would you like to\ncome in and rest a bit?"
+                                "You must be tired from your long journey,\nwould you like to come in and rest a bit?"
                             ]
                         },
                         {
@@ -3356,7 +3356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father Ah-......"
+                                "Father:\nAbout that..."
                             ]
                         },
                         {
@@ -3373,7 +3373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father I appreciate your kind offer, but it seems that it\nhas started to snow......"
+                                "Father:\nWe appreciate your kind offer,\nbut outside has started to snow."
                             ]
                         },
                         {
@@ -3390,7 +3390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father: I need to hurry home before it starts to snow\nheavily......"
+                                "Father:\nWe need to hurry home before\nit starts to snow heavily."
                             ]
                         },
                         {
@@ -3486,7 +3486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It would be nice if both of you could stay until the weather\ncalms down..."
+                                "It'd be nice to have you until\nthe weather calms down."
                             ]
                         },
                         {
@@ -3510,7 +3510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother: Thank you for your concern, Miyuki-san.. But......"
+                                "Mother:\nThank you for your offer, Miyuki-san.\nBut..."
                             ]
                         },
                         {
@@ -3656,7 +3656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother (I feel bad for \\n[1], but it's our first alone time\non Christmas Eve in a long time\\c[14]\\c[0] you know\\kw[1])"
+                                "Mother:\n(I feel bad for \\n[1], but it's our first alone time\non Christmas Eve in a long time\\c[14]\\c[0] you know\\kw[1])"
                             ]
                         },
                         {
@@ -3673,7 +3673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother (Miyuki-san, why don't you try making an appeal\ntonight...?\\kw[1])"
+                                "Mother:\n(Miyuki-san, why don't you try making\nan appeal tonight too...?\\kw[1])"
                             ]
                         },
                         {
@@ -3834,7 +3834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, Sachiko-san is always so lively...\\kw[1]"
+                                "Someone seems so eager tonight,\naren't you Sachiko-san...\\kw[1]"
                             ]
                         },
                         {
@@ -3925,7 +3925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father Hahaha!\\^"
+                                "Father:\nHahaha!\\^"
                             ]
                         },
                         {
@@ -3981,7 +3981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......？"
+                                "...？"
                             ]
                         },
                         {
@@ -4060,7 +4060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah- ......\\. Just a moment~ ...?"
+                                "Ah, here they go again..."
                             ]
                         },
                         {
@@ -4142,7 +4142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Umm...!"
+                                "Well..."
                             ]
                         },
                         {
@@ -4159,7 +4159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Come on, \\n[1]-kun! \\. Get up, get up!"
+                                "Come on, \\n[1]-kun!\\.\nLet's go upstairs!"
                             ]
                         },
                         {
@@ -4215,7 +4215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, \\. yes!"
+                                "Okay!"
                             ]
                         },
                         {
@@ -4239,7 +4239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother 'Well then, I guess it's about time for us to take\nour leave\\kw[1]"
+                                "Mother:\nThen if you may excuse us.\nWe'll take our leave.\\kw[1]"
                             ]
                         },
                         {
@@ -4256,7 +4256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father I'm always in such a hurry, aren't I?..."
+                                "Father:\nAlright, alright."
                             ]
                         },
                         {
@@ -4273,7 +4273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father Sho-kun, \\. let's go for a drink together next time ."
+                                "Father:\nMasakazu-kun,\\. let's go for some drink next time."
                             ]
                         },
                         {
@@ -4329,7 +4329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, \\. I'm looking forward to it ."
+                                "Sure,\\. I'll be looking forward to it."
                             ]
                         },
                         {
@@ -4353,7 +4353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother Take care, \\n[1].\\.. Make sure not to get too carried\naway and be polite.."
+                                "Mother:\nTake care, \\n[1].\\.\nBe polite and don't cause any trouble."
                             ]
                         },
                         {
@@ -4370,7 +4370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father I will come to pick you up before the \\c[14] opening\nceremony, so make sure to help out properly."
+                                "Father:\nWe will come to pick you up before your\n\\c[14]school term opening ceremony\\c[0]."
                             ]
                         },
                         {
@@ -4426,7 +4426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes!"
+                                "Okay!"
                             ]
                         },
                         {
@@ -4450,7 +4450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mother Well then, let's go, dear\\kw[1]"
+                                "Mother:\nWell then, let's go, dear.\\kw[1]"
                             ]
                         },
                         {
@@ -4467,7 +4467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Father Ah, \\. have a good Christmas!"
+                                "Father:\nOh right,\\. wish you a pleasant christmas!"
                             ]
                         },
                         {
@@ -4546,7 +4546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, \\. older siblings too \\kw[1]"
+                                "Thanks, I hope the same\nfor Nii-san too.\\kw[1]"
                             ]
                         },
                         {
@@ -4726,7 +4726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(Zzz.........)\\^"
+                                "(Grumble...)\\^"
                             ]
                         },
                         {
@@ -4861,7 +4861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe\\kw[1]\\. Are you hungry?"
+                                "Someone's hungry.\\kw[1]"
                             ]
                         },
                         {
@@ -4921,7 +4921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shall we go inside then?"
+                                "Shall we go inside?"
                             ]
                         },
                         {
@@ -4981,7 +4981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Today, we have prepared a \\c[14]feast\\c[0] for \\n[1]-\nkun\\kw[1]"
+                                "Today, we've prepared a \\c[14]feast\\c[0]\nfor \\n[1]-kun\\kw[1]"
                             ]
                         },
                         {
@@ -5059,7 +5059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Really!?"
+                                "Really?!"
                             ]
                         },
                         {
@@ -5126,7 +5126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Because today is \\c[14]Christmas Eve\\c[0], you know~\\kw[1]"
+                                "Yep, and also today is \\c[14]Christmas Eve\\c[0].\\kw[1]"
                             ]
                         },
                         {
@@ -5155,7 +5155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We've put our heart and soul into making this for \\n[1]\\kw[1]"
+                                "So we put our heart and soul into\nmaking these for \\n[1]\\kw[1]"
                             ]
                         },
                         {
@@ -5227,7 +5227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rio-neechan hasn't done anything yet, has she?....\\."
+                                "Rio-nee didn't do anything though...\\."
                             ]
                         },
                         {
@@ -5316,7 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This winter seems like it's going to be fun\\kw[1]"
+                                "Seems like this winter is going to be fun\\kw[1]"
                             ]
                         },
                         {
@@ -5495,7 +5495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And so, I ended up spending my holiday again at my cousins'\nhouse. \\.."
+                                "And so, I ended up spending my holiday\nagain at my cousins' house. \\.."
                             ]
                         },
                         {
@@ -5512,7 +5512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My cousins, whom I hadn't seen in half a year, warmly\nwelcomed me as always."
+                                "My cousins, whom I hadn't seen in half a year,\nwarmly welcomed me just like before."
                             ]
                         },
                         {
@@ -5629,7 +5629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The always reliable \\c[14]Yui\\c[0] onee-chan. who always\nwatches over my studies."
+                                "The ever so reliable \\c[14]Yui\\c[0]-oneechan.\nWho always watches over my studies."
                             ]
                         },
                         {
@@ -5746,7 +5746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A bit of a show-off, but the \\. onee-chan who plays with me,\n\\c[14]Rio\\c[0]."
+                                "Despite being a little pushy,\n\\c[14]Rio\\c[0] onee-chan always willing to play with me."
                             ]
                         },
                         {
@@ -5863,7 +5863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The always kind, \\. caring \\c[14]Miyuki\\c[0] aunt."
+                                "The kind and always caring, Aunt \\c[14]Miyuki\\c[0]."
                             ]
                         },
                         {
@@ -5880,7 +5880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Spending winter break for the first time with someone other\nthan family, \\.---"
+                                "Spending winter break for the first time with\nsomeone other than my own family\\.---"
                             ]
                         },
                         {
@@ -5897,7 +5897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I felt the arrival of a special winter in my heart---\\."
+                                "In my heart, I believe it'll be a special winter---\\."
                             ]
                         },
                         {
