@@ -126,7 +126,7 @@
         "Body",
         "Accessories"
     ],
-    "gameTitle": "Spoiled Child Winter(ver1.01b)",
+    "gameTitle": "Spoiled Child Winter(ver1.02）",
     "gameoverMe": {
         "name": "Gameover1",
         "pan": 0,
@@ -1005,8 +1005,8 @@
         "",
         "",
         "",
-        "",
-        "",
+        "★睡眠悪戯後処理中",
+        "☆Shift連動ピクチャ禁止",
         "",
         "",
         "",
@@ -4793,7 +4793,7 @@
         "",
         ""
     ],
-    "versionId": 17471846,
+    "versionId": 71977904,
     "victoryMe": {
         "name": "Victory1",
         "pan": 0,
