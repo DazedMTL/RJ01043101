@@ -3502,7 +3502,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 2To　the　floor 15"
+                                "D_TEXT To　the　2nd　floor 15"
                             ]
                         },
                         {
@@ -6902,7 +6902,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 1To　the　floor 15"
+                                "D_TEXT To　the　1st　floor 15"
                             ]
                         },
                         {
@@ -7647,7 +7647,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 2To　the　floor 15"
+                                "D_TEXT To　the　2nd　floor 15"
                             ]
                         },
                         {
@@ -7972,7 +7972,7 @@
                             "code": 356,
                             "indent": 4,
                             "parameters": [
-                                "D_TEXT 2To　the　floor 15"
+                                "D_TEXT To　the　2nd　floor 15"
                             ]
                         },
                         {
