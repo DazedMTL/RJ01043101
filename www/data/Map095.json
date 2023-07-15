@@ -1701,7 +1701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*kiss*...\\*kw*[1]*chu*...\\*kw*[1]"
+                                "*kiss*...\\kw[1] *chu*...\\kw[1]"
                             ]
                         },
                         {
@@ -2120,7 +2120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh, hitting the right spot feels good. *kw*[1]"
+                                "Ahh, hitting the right spot feels good. \\kw[1]"
                             ]
                         },
                         {
@@ -2137,7 +2137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mmm... *kw*[1] Huh... *fu*[2] *fu*[3]"
+                                "Mmm... \\kw[1] Huh... \\kw[2] \\kw[2]"
                             ]
                         },
                         {
@@ -2991,7 +2991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1], who was about to make a noise for a moment when Kagami\nsuddenly mentioned her own name,"
+                                "\\n[1], who was about to make a noise for a moment when Kagami\nsuddenly mentioned his name,"
                             ]
                         },
                         {
@@ -3150,7 +3150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thumping my vagina while breathing like a dog and balancing\non both legs."
+                                "Thumping her vagina while breathing like a dog and balancing\non both legs."
                             ]
                         },
                         {
@@ -5708,7 +5708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "C-C-C Kachakacha?!"
+                                "K-K-Kachakacha?!"
                             ]
                         },
                         {
@@ -5920,7 +5920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Voice?! It's a voice?!"
+                                "Voice?! My voice?!"
                             ]
                         },
                         {
@@ -6107,7 +6107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder what they're doing! ......!"
+                                "I wonder what you were doing! ......!"
                             ]
                         },
                         {
@@ -7954,7 +7954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I did it! \\. I did it!"
+                                "You did it! \\. You did it!"
                             ]
                         },
                         {
@@ -8531,7 +8531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It was throbbing here all along, and I couldn't help it."
+                                "It was throbbing here all alone, and I couldn't help it."
                             ]
                         },
                         {
@@ -9075,7 +9075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1] is the one who made me into such a promiscuous woman!\n\\. He is responsible for that!"
+                                "\\n[1] is the one who made me into such a promiscuous woman!\n\\. You are responsible for that!"
                             ]
                         },
                         {
@@ -9467,7 +9467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I just ejaculated a little while ago, you idiot."
+                                "You just ejaculated a little while ago, you idiot."
                             ]
                         },
                         {

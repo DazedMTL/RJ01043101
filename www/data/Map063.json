@@ -10119,7 +10119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*smooch* *suck* mmm... \\n[1] *kw*"
+                                "*smooch* *suck* mmm... \\n[1] \\kw[1]"
                             ]
                         },
                         {
@@ -10271,7 +10271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1] ... \\kw[1] \\. \\n[1] ... ... *kw*"
+                                "\\n[1] ... \\kw[1] \\. \\n[1] ... ... \\kw[1]"
                             ]
                         },
                         {

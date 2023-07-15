@@ -2871,7 +2871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ratte ...\\ kw [1] chu ... t \\kw[1]"
+                                "Ratte ...\\kw[1] chu ... t \\kw[1]"
                             ]
                         },
                         {
