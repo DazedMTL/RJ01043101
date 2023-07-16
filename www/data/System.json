@@ -105,7 +105,7 @@
         "pitch": 100,
         "volume": 90
     },
-    "editMapId": 10,
+    "editMapId": 9,
     "elements": [
         "",
         "物理",
@@ -126,7 +126,7 @@
         "Body",
         "Accessories"
     ],
-    "gameTitle": "Spoiled Child Winter(ver1.02）",
+    "gameTitle": "Spoiled Child Winter(ver1.02a)",
     "gameoverMe": {
         "name": "Gameover1",
         "pan": 0,
@@ -4793,7 +4793,7 @@
         "",
         ""
     ],
-    "versionId": 71977904,
+    "versionId": 13293862,
     "victoryMe": {
         "name": "Victory1",
         "pan": 0,
