@@ -1590,7 +1590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<T-This is bad! Akari!"
+                                "\\>Kouta: \\<T-This is bad! Akari!"
                             ]
                         },
                         {
@@ -1770,7 +1770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kota: Mentaiko hunting is"
+                                "Kouta: Mentaiko hunting is"
                             ]
                         },
                         {
@@ -1828,7 +1828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<\\Mentaiko hunting\\c[0] has appeared in this town!"
+                                "\\>Kouta: \\<\\Mentaiko hunting\\c[0] has appeared in this town!"
                             ]
                         },
                         {
@@ -2015,7 +2015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<Anyway, please come to the park with me for a\nmoment!"
+                                "\\>Kouta: \\<Anyway, please come to the park with me for a\nmoment!"
                             ]
                         },
                         {
