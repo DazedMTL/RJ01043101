@@ -88,7 +88,7 @@
         "order": 1,
         "parentId": 0,
         "scrollX": 548,
-        "scrollY": 574
+        "scrollY": 386
     },
     {
         "id": 11,
@@ -101,7 +101,7 @@
     },
     {
         "id": 12,
-        "expanded": false,
+        "expanded": true,
         "name": "◆莉音【EVENT】",
         "order": 14,
         "parentId": 11,
@@ -146,7 +146,7 @@
     },
     {
         "id": 17,
-        "expanded": true,
+        "expanded": false,
         "name": "タイトル",
         "order": 143,
         "parentId": 0,
@@ -609,8 +609,8 @@
         "name": "★01月01日　お正月",
         "order": 23,
         "parentId": 12,
-        "scrollX": 524.6666666666666,
-        "scrollY": 401.3333333333333
+        "scrollX": 558.6666666666666,
+        "scrollY": 386
     },
     {
         "id": 69,

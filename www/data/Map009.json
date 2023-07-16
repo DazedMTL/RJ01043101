@@ -3896,6 +3896,20 @@
                             ]
                         },
                         {
+                            "code": 408,
+                            "indent": 1,
+                            "parameters": [
+                                "おねだり初期化"
+                            ]
+                        },
+                        {
+                            "code": 408,
+                            "indent": 1,
+                            "parameters": [
+                                "---------------------------------"
+                            ]
+                        },
+                        {
                             "code": 121,
                             "indent": 1,
                             "parameters": [
@@ -3910,6 +3924,15 @@
                             "parameters": [
                                 160,
                                 160,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                255,
+                                260,
                                 1
                             ]
                         },
@@ -4057,6 +4080,20 @@
                             "indent": 1,
                             "parameters": [
                                 538
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 1,
+                            "parameters": [
+                                "---------------------------------"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 1,
+                            "parameters": [
+                                249
                             ]
                         },
                         {
@@ -4331,19 +4368,8 @@
                             "parameters": []
                         },
                         {
-                            "code": 111,
-                            "indent": 4,
-                            "parameters": [
-                                1,
-                                32,
-                                0,
-                                4,
-                                1
-                            ]
-                        },
-                        {
                             "code": 122,
-                            "indent": 5,
+                            "indent": 4,
                             "parameters": [
                                 32,
                                 32,
@@ -4355,20 +4381,10 @@
                         },
                         {
                             "code": 119,
-                            "indent": 5,
+                            "indent": 4,
                             "parameters": [
                                 "ループ"
                             ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 5,
-                            "parameters": []
-                        },
-                        {
-                            "code": 412,
-                            "indent": 4,
-                            "parameters": []
                         },
                         {
                             "code": 0,
