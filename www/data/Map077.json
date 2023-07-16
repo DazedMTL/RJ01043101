@@ -1445,7 +1445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<What's that ......"
+                                "\\>Kouta: \\<Hmm...?"
                             ]
                         },
                         {
@@ -1575,7 +1575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh?"
+                                "Y-You...?"
                             ]
                         },
                         {
@@ -1638,7 +1638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehehe ......"
+                                "Haha..."
                             ]
                         },
                         {
@@ -1674,7 +1674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Akari-chan! Everyone's favorite mentaiko! Long time no see!"
+                                "Akari-chan! Everyone's favorite mentaiko!\nLong time no see!"
                             ]
                         },
                         {
@@ -1943,7 +1943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<\\n[1]! It's \\n[1], isn't it! \\>　　　\\<Long time no\nsee!"
+                                "\\>Kouta: \\<Oh, it's \\n[1]!\\> \\<Long time no see!"
                             ]
                         },
                         {
@@ -1999,7 +1999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, I see! \\n[1]-kun's school also had winter break, so"
+                                "I see, so \\n[1]-kun's school\nis on winter break too!"
                             ]
                         },
                         {
@@ -2023,7 +2023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yeah! \\. You came to play again!"
+                                "Yup! \\.I came to play again!"
                             ]
                         },
                         {
@@ -2079,7 +2079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wow, I didn't realize that!"
+                                "Hehe..."
                             ]
                         },
                         {
@@ -2096,7 +2096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nice to see you again, \\n[1]-kun."
+                                "Glad to see you again, \\n[1]-kun"
                             ]
                         },
                         {
@@ -2120,7 +2120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ehehe"
+                                "Thanks"
                             ]
                         },
                         {
@@ -2137,7 +2137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Everyone seems to be doing well as usual!"
+                                "Everyone seems to be doing well!"
                             ]
                         },
                         {
@@ -2177,7 +2177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<Ah, everyone is doing well."
+                                "\\>Kouta: \\<Yeah, as you can see"
                             ]
                         },
                         {
@@ -2194,7 +2194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: \\<If you were coming, it would have been nice to\nreceive a message beforehand \\>　　　\\<and let us know."
+                                "\\>Shiori: \\<Why didn't you let us know that you were coming?"
                             ]
                         },
                         {
@@ -2307,7 +2307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......Huh?"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -2324,7 +2324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is Men\\n[1]-kun not here today?"
+                                "Mentai-kun isn't here today?"
                             ]
                         },
                         {
@@ -2364,7 +2364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shiori: If it's Men\\n[1]-kun, he's currently on a training\njourney and won't be here during his break."
+                                "Shiori: Mentai-kun currently is on a \\c[14]training trip\\c[0],\nso he won't be here during winter break"
                             ]
                         },
                         {
@@ -2381,7 +2381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shiori: \\c[14]Now that I've become a professional, I have to\ntrain without fail\\> \\<."
+                                "Shiori: \\c[14]Now that I've become a professional, I must\nnot fail my training!\\c[0] he said"
                             ]
                         },
                         {
@@ -2420,7 +2420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: \\<You're still quite diligent, aren't you? ..."
+                                "Shiori: He's still as dilligent as ever"
                             ]
                         },
                         {
@@ -2515,7 +2515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Men\\n[1]-kun became a professional Mentai car!"
+                                "Mentai-kun has became a professional Mentaiko?!"
                             ]
                         },
                         {
@@ -2571,7 +2571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yeah, that's right. \\kw[1]"
+                                "Yeah, that's right \\kw[1]"
                             ]
                         },
                         {
@@ -2620,7 +2620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She has completely become accustomed to TV, and now she's\nlike the face of mentaiko. It's amazing!"
+                                "He's appeared on the TV so often,\nand he's like the face of mentaiko now!"
                             ]
                         },
                         {
@@ -2691,7 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sometimes we also appear together on TV ......"
+                                "We sometimes also appear together on TV too"
                             ]
                         },
                         {
@@ -2774,7 +2774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As someone who stands shoulder to shoulder with Men\\n[1]-kun,\nI should learn from his stoicism, I guess. ..."
+                                "Considering I'm also in the same field,\nmaybe I should learn few things from his method"
                             ]
                         },
                         {
@@ -2836,7 +2836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: \\<It's fine, Akari should stay as she is!"
+                                "Shiori: It's fine Akari, just stay as you are!"
                             ]
                         },
                         {
@@ -2875,7 +2875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<That's right, Akari-chan!"
+                                "Kouta: That's right, Akari-chan!"
                             ]
                         },
                         {
@@ -2892,7 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<If even Akari-chan becomes like Men\\n[1]-kun,\nhaving two serious people together on the show will make it\nless interesting, right?"
+                                "Kouta: Having two Mentai-kun on the show makes it\nless exciting to watch, don't you think?"
                             ]
                         },
                         {
@@ -3040,7 +3040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But, I see."
+                                "Still..."
                             ]
                         },
                         {
@@ -3115,7 +3115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Both of them have completely become celebrities."
+                                "Both of them have become celebrities!"
                             ]
                         },
                         {
@@ -3183,7 +3183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe...h\\kw[1]"
+                                "Hehe...\\kw[1]"
                             ]
                         },
                         {
@@ -3336,7 +3336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "By the way ......"
+                                "By the way..."
                             ]
                         },
                         {
@@ -3411,7 +3411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is \\n[1] still doing \\c[14]mentai\\c[0]?"
+                                "Is \\n[1]-kun still playing \\c[14]mentai\\c[0]?"
                             ]
                         },
                         {
@@ -3528,7 +3528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I don't have any friends who do it in my hometown."
+                                "I don't have any friends who\nplay it in my hometown."
                             ]
                         },
                         {
@@ -3590,7 +3590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<Hey hey, are you serious!"
+                                "Kouta: What? are you serious?!"
                             ]
                         },
                         {
@@ -3629,7 +3629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: \\<Nowadays, \\ceven adults are starting to play with\nmenko, you know?"
+                                "Kouta: Even \\c[14]adults\\c[0] here are starting\nto play menko, you know?"
                             ]
                         },
                         {
@@ -3646,7 +3646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: \\n[1]-kun's hometown is in the city, right? \\>\n\\<I'm so behind~"
+                                "Shiori: \\n[1]-kun's hometown is in the city, right?\nI didn't expect the trend is different there"
                             ]
                         },
                         {
@@ -3702,7 +3702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahahaha ..."
+                                "Ahaha..."
                             ]
                         },
                         {
@@ -3784,7 +3784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Okay, here you go \\kw[1]\\.. I'll give it to \\n[1]-kun!"
+                                "Alright, \\n[1]-kun, please accept this \\kw[1]"
                             ]
                         },
                         {
@@ -3945,7 +3945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">\\cI received a menko for mentai!\\c"
+                                "Received a \\c[14]menko\\c[0] for mentai!"
                             ]
                         },
                         {
@@ -4083,7 +4083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is it okay?"
+                                "Are you sure?"
                             ]
                         },
                         {
@@ -4139,7 +4139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Originally, it's a guy for practicing at the hideout."
+                                "It was my extra spare for practice at the hideout"
                             ]
                         },
                         {
@@ -4156,7 +4156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I have some extra, so I'll give it to \\n[1]-kun."
+                                "I hope you like it, \\n[1]-kun"
                             ]
                         },
                         {
@@ -4349,7 +4349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "By the way, since it's been a while since we last met, how\nabout having some mentai?"
+                                "Since it's been forever since we last met,\nhow about we play some mentai?"
                             ]
                         },
                         {
@@ -4460,7 +4460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Kota: Alright, sounds good! \\> I also want to have some\nfun with \\n[1] after a long time!"
+                                "Kouta: Whoa, sounds good!\nI also want to play with \\n[1]!"
                             ]
                         },
                         {
@@ -4477,7 +4477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: \\<I was just thinking that it's always the same\npeople and it's boring~"
+                                "Shiori: Me too! It's getting boring since it's just us here"
                             ]
                         },
                         {
@@ -4494,7 +4494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>Shiori: \\<Can we have a match right away?"
+                                "Shiori: Can we have a match right away?"
                             ]
                         },
                         {
@@ -4719,7 +4719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]◆Tutorial\\c[0] 　\\c[14]Would you like to hear how to\nplay mentai\\c[0]?"
+                                "\\c[14]◆Tutorial\\c[0]\nWould you like to hear how to play \\c[14]mentai\\c[0]?"
                             ]
                         },
                         {
@@ -4911,7 +4911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You can set up a trap."
+                                "While you're on the map, you can play mentai with \\c[14]anyone\\c[0]\nby pressing right click on them"
                             ]
                         },
                         {
@@ -4928,7 +4928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Basically, you can play mentai with anyone \\c[0] and by\nwinning, you can obtain experience points and memories\npoints \\c[0] .."
+                                "You can obtain experience points and memories points by winning"
                             ]
                         },
                         {
@@ -4973,7 +4973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">When you challenge someone, you can have a mentai battle\nright there on the spot! There are no disadvantages to\nlosing, so let's challenge opponents who are close to your\nlevel more and more."
+                                "There's no penalty for losing, so you can have matches\nas many as you want"
                             ]
                         },
                         {
@@ -5018,7 +5018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">The mentai game is played in turns. When it's your turn,\npay close attention to the bar that moves up and down on the\nbottom right \\c[14]chinchin gauge\\c[0], and try to stop it\nat the highest point to aim for the maximum!"
+                                "Mentai is played in turns. During your turn, aim to stop \n\\c[14]chinchin\\c[0] gauge bar on the right at its maximum!"
                             ]
                         },
                         {
@@ -5063,7 +5063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">The power you deal to your opponent increases or decreases\ndepending on where you stop the bar. If you stop the bar at\nthe very bottom, it's a Miss, and if you stop it at the C\nsection, it's a Critical."
+                                "If you manage to stop it on C area, the damage will be critical!"
                             ]
                         },
                         {
@@ -5080,7 +5080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">Let's aim for big damage by accurately timing your moves!"
+                                "Let's aim for big damage by timing your moves!"
                             ]
                         },
                         {
@@ -5125,7 +5125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">Furthermore, if you push the limits of the bar even further\nabove the C section, you can decide the match with a\n\\c[14]one-hit kill.."
+                                "Lastly, you may do one-hit kill if you manage\nto stop the bar on its very peak!"
                             ]
                         },
                         {
@@ -5142,7 +5142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">..., this skill won't activate if there's a large level\ndifference with the opponent, so be careful not to aim too\nmuch and end up missing. ."
+                                "However, this may not activate for some cases\nPlease be careful!"
                             ]
                         },
                         {
@@ -5187,7 +5187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">When you win against a first-time opponent, you can obtain\n\\c[14]item rewards\\c[0] and \\c[14]various experience\npoints\\c[0]."
+                                "Winning the first-time for each opponent will reward you\nitems and experience"
                             ]
                         },
                         {
@@ -5204,7 +5204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">The NPCs placed on the map \\cchange\\c as the date\nprogresses, so when you encounter a new NPC, challenge them\nto a mentai game and strive to gain experience points!"
+                                "The NPCs on the map may be \\c[14]changed\\c[0] as the date\nprogresses, so make sure you challenge\nthem all!"
                             ]
                         },
                         {
@@ -5249,7 +5249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">Mentai will be strengthened \\c[14]based on \\n[1]'s\nlevel\\c[0], so accumulating a lot of experience points and\nleveling up is the shortcut to victory.."
+                                "Your mentai will grow based on \\n[1]'s \\c[14]level\\c[0],\nso accumulating experience is the key!"
                             ]
                         },
                         {
@@ -5306,7 +5306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">\\c[14]Unseen strong opponents are waiting for you! \\c[0]\nNow, let's try playing against various people!"
+                                "Many \\c[14]unseen strong opponents\\c[0] are waiting for you!"
                             ]
                         },
                         {
@@ -5363,7 +5363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">By the way, at this secret base, you can perform\n\\c[14]modifications\\c[0] to the mentai game. Let's try it\nlater.."
+                                "By the way, you can perform \\c[14]modifications\\c[0] of your mentai\nat the hideout, you might want to check it later!"
                             ]
                         },
                         {

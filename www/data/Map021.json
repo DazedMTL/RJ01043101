@@ -1882,7 +1882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>\\c[14]★Do you want to carry over the clear data?\\c[0]\\< \\>\nThe protagonist's maximum level, stamina, energy,\npossessions, acquired skills\\< \\> The heroines' status,\nscenario progress will be carried over\\<"
+                                "\\>\\c[14]★Carry over previous clear data?\\c[0]\\< \\>\nCharacter's Level, Stamina, Energy, Items, Skills,\\<\\>\nThe heroines' Status and Scenario progress\nwill be carried over\\<"
                             ]
                         },
                         {
