@@ -83,7 +83,7 @@
     },
     {
         "id": 10,
-        "expanded": true,
+        "expanded": false,
         "name": "マップ画面",
         "order": 1,
         "parentId": 0,
@@ -92,7 +92,7 @@
     },
     {
         "id": 11,
-        "expanded": false,
+        "expanded": true,
         "name": "【キャラEVENT】",
         "order": 4,
         "parentId": 0,
@@ -371,12 +371,12 @@
     },
     {
         "id": 42,
-        "expanded": false,
+        "expanded": true,
         "name": "EV1.カメラの調子は？(夕方)",
         "order": 16,
         "parentId": 12,
-        "scrollX": 524.6666666666666,
-        "scrollY": 401.3333333333333
+        "scrollX": 558.6666666666666,
+        "scrollY": 386
     },
     {
         "id": 43,
@@ -452,7 +452,7 @@
     },
     {
         "id": 51,
-        "expanded": true,
+        "expanded": false,
         "name": "12月31日(大晦日朝)",
         "order": 126,
         "parentId": 37,
@@ -695,7 +695,7 @@
     },
     {
         "id": 78,
-        "expanded": true,
+        "expanded": false,
         "name": "◇カガミ【EVENT】",
         "order": 51,
         "parentId": 11,
@@ -740,7 +740,7 @@
     },
     {
         "id": 83,
-        "expanded": false,
+        "expanded": true,
         "name": "◇ヒカリ【EVENT】",
         "order": 85,
         "parentId": 11,
@@ -1059,8 +1059,8 @@
         "name": "EV.5　久々に……♥",
         "order": 89,
         "parentId": 117,
-        "scrollX": 524.6666666666666,
-        "scrollY": 402.6666666666667
+        "scrollX": 558.6666666666666,
+        "scrollY": 386
     },
     {
         "id": 119,
@@ -1133,7 +1133,7 @@
         "order": 92,
         "parentId": 126,
         "scrollX": 558.6666666666666,
-        "scrollY": 386.6666666666667
+        "scrollY": 386
     },
     {
         "id": 128,
