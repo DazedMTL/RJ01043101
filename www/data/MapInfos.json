@@ -92,7 +92,7 @@
     },
     {
         "id": 11,
-        "expanded": false,
+        "expanded": true,
         "name": "【キャラEVENT】",
         "order": 4,
         "parentId": 0,
@@ -128,12 +128,12 @@
     },
     {
         "id": 15,
-        "expanded": false,
+        "expanded": true,
         "name": "◆美雪【EVENT】",
         "order": 25,
         "parentId": 11,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 16,
@@ -146,7 +146,7 @@
     },
     {
         "id": 17,
-        "expanded": true,
+        "expanded": false,
         "name": "タイトル",
         "order": 143,
         "parentId": 0,
@@ -187,7 +187,7 @@
         "order": 144,
         "parentId": 17,
         "scrollX": 558.6666666666666,
-        "scrollY": 392
+        "scrollY": 383.3333333333333
     },
     {
         "id": 22,
@@ -313,7 +313,7 @@
         "order": 110,
         "parentId": 0,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 36,
@@ -326,7 +326,7 @@
     },
     {
         "id": 37,
-        "expanded": true,
+        "expanded": false,
         "name": "【日付イベント】",
         "order": 120,
         "parentId": 0,
@@ -403,7 +403,7 @@
         "order": 30,
         "parentId": 15,
         "scrollX": 558.6666666666666,
-        "scrollY": 392
+        "scrollY": 383.3333333333333
     },
     {
         "id": 46,
@@ -637,7 +637,7 @@
         "order": 31,
         "parentId": 45,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 72,
@@ -677,7 +677,7 @@
     },
     {
         "id": 76,
-        "expanded": false,
+        "expanded": true,
         "name": "◇あかり【EVENT】",
         "order": 40,
         "parentId": 11,
@@ -713,7 +713,7 @@
     },
     {
         "id": 80,
-        "expanded": true,
+        "expanded": false,
         "name": "◇スズカ【EVENT】",
         "order": 67,
         "parentId": 11,
@@ -780,8 +780,8 @@
         "name": "EV.4　プロへの道のり",
         "order": 44,
         "parentId": 86,
-        "scrollX": 536.6666666666666,
-        "scrollY": 351.3333333333333
+        "scrollX": 558.6666666666666,
+        "scrollY": 383.3333333333333
     },
     {
         "id": 88,
@@ -835,7 +835,7 @@
         "order": 50,
         "parentId": 92,
         "scrollX": 558.6666666666666,
-        "scrollY": 386.6666666666667
+        "scrollY": 383.3333333333333
     },
     {
         "id": 94,
@@ -853,7 +853,7 @@
         "order": 53,
         "parentId": 94,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 96,
@@ -907,7 +907,7 @@
         "order": 114,
         "parentId": 35,
         "scrollX": 558.6666666666666,
-        "scrollY": 386.6666666666667
+        "scrollY": 383.3333333333333
     },
     {
         "id": 102,
@@ -1024,7 +1024,7 @@
         "order": 115,
         "parentId": 35,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 115,
@@ -1222,8 +1222,8 @@
         "name": "◆美雪END",
         "order": 155,
         "parentId": 135,
-        "scrollX": 832,
-        "scrollY": 640
+        "scrollX": 558.6666666666666,
+        "scrollY": 383.3333333333333
     },
     {
         "id": 138,
@@ -1340,7 +1340,7 @@
         "order": 116,
         "parentId": 35,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 151,
@@ -1394,7 +1394,7 @@
         "order": 119,
         "parentId": 35,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 157,
