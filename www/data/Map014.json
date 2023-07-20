@@ -1367,8 +1367,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)_0000",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)_0000",
@@ -1381,6 +1416,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -5646,8 +5691,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)_0000",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)_0000",
@@ -5660,6 +5740,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -6802,8 +6892,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)_0000",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)_0000",
@@ -6816,6 +6941,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -7257,8 +7392,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)_0002",
@@ -7271,6 +7441,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -7342,8 +7522,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)_0004",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)_0004",
@@ -7356,6 +7571,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -7561,8 +7786,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)_0002",
@@ -7575,6 +7835,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -7658,8 +7928,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)_0004",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)_0004",
@@ -7672,6 +7977,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -16731,7 +17046,35 @@
                             "indent": 0,
                             "parameters": [
                                 0,
+                                375,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
                                 63,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                182,
                                 0
                             ]
                         },
@@ -16762,8 +17105,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 1,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0000",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 2,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0000",
@@ -16776,6 +17154,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -17152,7 +17540,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -17183,8 +17571,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0002",
@@ -17197,6 +17620,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -17259,7 +17692,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -17290,8 +17723,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0004",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0004",
@@ -17304,6 +17772,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -17571,7 +18049,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -17602,8 +18080,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0002",
@@ -17616,6 +18129,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -17711,7 +18234,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -17742,8 +18265,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0000",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0000",
@@ -17756,6 +18314,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -17895,7 +18463,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -17926,8 +18494,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0004",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0004",
@@ -17940,6 +18543,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -18096,7 +18709,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -18127,8 +18740,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0001",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0001",
@@ -18141,6 +18789,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -18203,7 +18861,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -18234,8 +18892,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0004",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0004",
@@ -18248,6 +18941,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -18426,7 +19129,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -18457,8 +19160,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0001",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0001",
@@ -18471,6 +19209,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -18526,7 +19274,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -18557,8 +19305,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0000",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0000",
@@ -18571,6 +19354,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -18626,7 +19419,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -18657,8 +19450,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0002",
@@ -18671,6 +19499,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -18825,7 +19663,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -18856,8 +19694,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0001",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0001",
@@ -18870,6 +19743,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -19091,7 +19974,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -19122,8 +20005,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0002",
@@ -19136,6 +20054,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -19312,7 +20240,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -19343,8 +20271,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0004",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0004",
@@ -19357,6 +20320,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -19412,7 +20385,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -19443,8 +20416,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0000",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0000",
@@ -19457,6 +20465,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,
@@ -19505,7 +20523,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                63,
+                                182,
                                 0
                             ]
                         },
@@ -19536,8 +20554,43 @@
                             "parameters": []
                         },
                         {
-                            "code": 231,
+                            "code": 111,
                             "indent": 2,
+                            "parameters": [
+                                0,
+                                63,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                "就寝_莉音(裸)朝_0002",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
                             "parameters": [
                                 1,
                                 "就寝_莉音(服)朝_0002",
@@ -19550,6 +20603,16 @@
                                 255,
                                 0
                             ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
                         },
                         {
                             "code": 0,

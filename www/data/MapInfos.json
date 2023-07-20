@@ -70,7 +70,7 @@
         "order": 5,
         "parentId": 11,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 9,
@@ -92,7 +92,7 @@
     },
     {
         "id": 11,
-        "expanded": true,
+        "expanded": false,
         "name": "【キャラEVENT】",
         "order": 4,
         "parentId": 0,
@@ -115,7 +115,7 @@
         "order": 95,
         "parentId": 24,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 14,
@@ -124,11 +124,11 @@
         "order": 100,
         "parentId": 28,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 15,
-        "expanded": true,
+        "expanded": false,
         "name": "◆美雪【EVENT】",
         "order": 25,
         "parentId": 11,
@@ -142,7 +142,7 @@
         "order": 105,
         "parentId": 29,
         "scrollX": 558.6666666666666,
-        "scrollY": 392
+        "scrollY": 383.3333333333333
     },
     {
         "id": 17,
@@ -160,7 +160,7 @@
         "order": 98,
         "parentId": 24,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 19,
@@ -213,8 +213,8 @@
         "name": "◇結衣【睡眠】",
         "order": 94,
         "parentId": 30,
-        "scrollX": 594.6666666666666,
-        "scrollY": 374
+        "scrollX": 558.6666666666666,
+        "scrollY": 383.3333333333333
     },
     {
         "id": 25,
@@ -240,7 +240,7 @@
         "name": "◆サンタさんへお願い！",
         "order": 6,
         "parentId": 8,
-        "scrollX": 556.6666666666666,
+        "scrollX": 558.6666666666666,
         "scrollY": 383.3333333333333
     },
     {
@@ -250,7 +250,7 @@
         "order": 99,
         "parentId": 30,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 29,
@@ -263,12 +263,12 @@
     },
     {
         "id": 30,
-        "expanded": false,
+        "expanded": true,
         "name": "【睡眠EVENT】",
         "order": 93,
         "parentId": 0,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 31,
@@ -367,7 +367,7 @@
         "order": 7,
         "parentId": 8,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 42,
@@ -452,7 +452,7 @@
     },
     {
         "id": 51,
-        "expanded": true,
+        "expanded": false,
         "name": "12月31日(大晦日朝)",
         "order": 126,
         "parentId": 37,
@@ -547,7 +547,7 @@
         "order": 12,
         "parentId": 8,
         "scrollX": 558.6666666666666,
-        "scrollY": 392
+        "scrollY": 383.3333333333333
     },
     {
         "id": 62,
@@ -677,7 +677,7 @@
     },
     {
         "id": 76,
-        "expanded": true,
+        "expanded": false,
         "name": "◇あかり【EVENT】",
         "order": 40,
         "parentId": 11,
@@ -745,7 +745,7 @@
         "order": 85,
         "parentId": 11,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 84,
@@ -1060,7 +1060,7 @@
         "order": 89,
         "parentId": 117,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 119,
@@ -1114,7 +1114,7 @@
         "order": 90,
         "parentId": 118,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     null,
     {
@@ -1466,7 +1466,7 @@
         "order": 13,
         "parentId": 8,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 165,
