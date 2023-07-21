@@ -60,8 +60,8 @@
         "name": "書初",
         "order": 113,
         "parentId": 35,
-        "scrollX": 594.6666666666666,
-        "scrollY": 374
+        "scrollX": 558.6666666666666,
+        "scrollY": 383.3333333333333
     },
     {
         "id": 8,
@@ -83,7 +83,7 @@
     },
     {
         "id": 10,
-        "expanded": true,
+        "expanded": false,
         "name": "マップ画面",
         "order": 1,
         "parentId": 0,
@@ -92,7 +92,7 @@
     },
     {
         "id": 11,
-        "expanded": false,
+        "expanded": true,
         "name": "【キャラEVENT】",
         "order": 4,
         "parentId": 0,
@@ -263,7 +263,7 @@
     },
     {
         "id": 30,
-        "expanded": true,
+        "expanded": false,
         "name": "【睡眠EVENT】",
         "order": 93,
         "parentId": 0,
@@ -308,7 +308,7 @@
     },
     {
         "id": 35,
-        "expanded": false,
+        "expanded": true,
         "name": "【ミニゲーム】",
         "order": 110,
         "parentId": 0,
@@ -322,7 +322,7 @@
         "order": 111,
         "parentId": 35,
         "scrollX": 558.6666666666666,
-        "scrollY": 386
+        "scrollY": 383.3333333333333
     },
     {
         "id": 37,
@@ -362,7 +362,7 @@
     },
     {
         "id": 41,
-        "expanded": false,
+        "expanded": true,
         "name": "EV.1　結衣の将来の夢（午後）",
         "order": 7,
         "parentId": 8,
@@ -475,7 +475,7 @@
         "order": 130,
         "parentId": 37,
         "scrollX": 558.6666666666666,
-        "scrollY": 388
+        "scrollY": 383.3333333333333
     },
     {
         "id": 54,
@@ -510,8 +510,8 @@
         "name": "EV.4　課題の途中で…❤（午後）",
         "order": 10,
         "parentId": 56,
-        "scrollX": 527.3333333333334,
-        "scrollY": 383.3333333333333
+        "scrollX": 832,
+        "scrollY": 640
     },
     {
         "id": 58,
@@ -682,7 +682,7 @@
         "order": 40,
         "parentId": 11,
         "scrollX": 558.6666666666666,
-        "scrollY": 386.6666666666667
+        "scrollY": 383.3333333333333
     },
     {
         "id": 77,
@@ -825,8 +825,8 @@
         "name": "EV.8　秘密のえっち❤",
         "order": 49,
         "parentId": 91,
-        "scrollX": 594.6666666666666,
-        "scrollY": 392.6666666666667
+        "scrollX": 558.6666666666666,
+        "scrollY": 383.3333333333333
     },
     {
         "id": 93,
@@ -1041,8 +1041,8 @@
         "name": "EV.3　アングラーヒカリ",
         "order": 87,
         "parentId": 115,
-        "scrollX": 527.3333333333334,
-        "scrollY": 366.6666666666667
+        "scrollX": 558.6666666666666,
+        "scrollY": 383.3333333333333
     },
     {
         "id": 117,
