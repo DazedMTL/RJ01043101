@@ -105,7 +105,7 @@
         "pitch": 100,
         "volume": 90
     },
-    "editMapId": 10,
+    "editMapId": 134,
     "elements": [
         "",
         "物理",
@@ -126,14 +126,14 @@
         "Body",
         "Accessories"
     ],
-    "gameTitle": "Spoiled Child Winter(ver1.04a)",
+    "gameTitle": "Spoiled Child Winter(ver1.06)",
     "gameoverMe": {
         "name": "Gameover1",
         "pan": 0,
         "pitch": 100,
         "volume": 90
     },
-    "locale": "ja_JP",
+    "locale": "en_US",
     "magicSkills": [
         1
     ],
@@ -1003,7 +1003,7 @@
         "",
         "",
         "",
-        "",
+        "☆キャラ欠け有り",
         "★場所移動したから読み込まないで",
         "★睡眠悪戯後処理中",
         "☆Shift連動ピクチャ禁止",
@@ -1901,7 +1901,7 @@
         "⑤",
         "⑥",
         "",
-        "",
+        "◇呼び出しオナニー中",
         "◇屋台延長Switch",
         "☆絶頂音声開始",
         "┗絶頂終了",
@@ -3486,7 +3486,7 @@
         "Underwear Change Variable",
         "",
         "",
-        "",
+        "☆現在の居場所変数(避難所)",
         "取得SP変数",
         "☆ED選択【名前代入】",
         "★お別れ挨拶「誰？」",
@@ -4793,7 +4793,7 @@
         "",
         "★現在のVersion"
     ],
-    "versionId": 4501480,
+    "versionId": 84319589,
     "victoryMe": {
         "name": "Victory1",
         "pan": 0,
