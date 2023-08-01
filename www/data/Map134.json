@@ -1096,6 +1096,20 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
+                                "PictureZIndex reset"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "----------------------------------------"
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": [
                                 "イベント高速化禁止"
                             ]
                         },
@@ -1218,6 +1232,24 @@
                             "indent": 0,
                             "parameters": [
                                 "----------------------------------------"
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                652,
+                                652,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                653,
+                                653,
+                                1
                             ]
                         },
                         {
