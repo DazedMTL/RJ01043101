@@ -2540,7 +2540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The candy store, right ...?"
+                                "The candy store...?"
                             ]
                         },
                         {
@@ -2994,7 +2994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, yes\\. \\c[14]We were classmates in middle school\\c[0]"
+                                "Ah, yes\\.. \\c[14]We were classmates in middle school\\c[0]"
                             ]
                         },
                         {
@@ -3041,7 +3041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But because she is an elite, she went on to a school in the\ncity~..."
+                                "But because she is an elite, she\nwent on to a school in the city~..."
                             ]
                         },
                         {
@@ -3058,7 +3058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I see...\\. If she had come back, it would have been nice if\nshe said a word about it......"
+                                "I see...\\. If she had come back, it would have been nice\nif she said a word about it......"
                             ]
                         },
                         {
