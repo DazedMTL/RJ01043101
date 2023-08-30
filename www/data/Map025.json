@@ -1407,7 +1407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I love \\.!"
+                                "I love them\\.!"
                             ]
                         },
                         {
@@ -1504,7 +1504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Speaking of Christmas, it's definitely about turkey, isn't\nit~\\kw[1]"
+                                "Speaking of Christmas, it's definitely turkey, isn't\nit~\\kw[1]"
                             ]
                         },
                         {
@@ -1732,7 +1732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shall we eat soon?"
+                                "Shall we eat?"
                             ]
                         },
                         {
@@ -1781,7 +1781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well then, \\. shall we toast with champagne soon?"
+                                "Well then, \\. shall we toast with champagne?"
                             ]
                         },
                         {
@@ -2315,7 +2315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well then, since the drinks have been distributed..."
+                                "Well then, since everyone got their drinks..."
                             ]
                         },
                         {
@@ -2332,7 +2332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......You?"
+                                "......Dear?"
                             ]
                         },
                         {
@@ -2562,7 +2562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ">I ended up eating a lot at the table full of my favorite\nfoods!"
+                                ">I ended up eating a lot at the table, full of my favorite\nfoods!"
                             ]
                         },
                         {

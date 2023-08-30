@@ -1359,7 +1359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Amazing......\\. Beautiful tone......"
+                                "Amazing...\\. What a beautiful tone..."
                             ]
                         },
                         {
@@ -2066,7 +2066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But I, because my \\.\\c[14]address\\c[0] is different, I'm\nsure he won't deliver it."
+                                "But, because my \\.\\c[14]address\\c[0] is different, I'm\nsure he won't deliver it."
                             ]
                         },
                         {
