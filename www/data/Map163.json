@@ -1562,63 +1562,175 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "------------------------------------------"
+                                "----------------------------------------"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.PlayRenAnime(5,"
+                                "this.PlayRenAnime(54,"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "\"pictures/立ち絵_一ノ瀬/E_一ノ瀬_最終日1_0000\" ,"
+                                "\"pictures/立ち絵_結衣/E_結衣1_変態下着1_0000\" ,"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                " 3,30,1 , 80,20,255 , 90,90);"
+                                " 3,30,2 , 100,100,255 , 90,90"
                             ]
                         },
                         {
-                            "code": 108,
+                            "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "------------------------------------------"
+                                ",[1,2,3]);"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "this.PlayRenAnime(5,"
+                                "this.PlayRenAnime(55,"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                "\"pictures/立ち絵_一ノ瀬/E_一ノ瀬_最終日2_0000\" ,"
+                                "\"pictures/立ち絵_結衣/E_結衣_変態表情1_0000\" ,"
                             ]
                         },
                         {
                             "code": 655,
                             "indent": 0,
                             "parameters": [
-                                " 3,30,1 , 75,30,255 , 90,90);"
+                                " 3,30,2 , 100,100,255 , 90,90);"
                             ]
                         },
                         {
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "------------------------------------------"
+                                "----------------------------------------"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "this.PlayRenAnime(56,"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "\"pictures/立ち絵_莉音/E_莉音1_変態下着1_0000\" ,"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                " 3,30,2 , 100,100,255 , 90,90"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                ",[1,2,3]);"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "this.PlayRenAnime(57,"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "\"pictures/立ち絵_莉音/E_莉音_変態表情1_0000\" ,"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                " 3,30,2 , 100,100,255 , 90,90);"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "----------------------------------------"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "this.PlayRenAnime(58,"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "\"pictures/立ち絵_美雪/E_美雪1_変態下着1_0000\" ,"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                " 3,30,2 , 100,100,255 , 90,90"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                ",[1,2,3]);"
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 0,
+                            "parameters": [
+                                "this.PlayRenAnime(59,"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                "\"pictures/立ち絵_美雪/E_美雪_変態表情1_0000\" ,"
+                            ]
+                        },
+                        {
+                            "code": 655,
+                            "indent": 0,
+                            "parameters": [
+                                " 3,30,2 , 100,100,255 , 90,90);"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "----------------------------------------"
                             ]
                         },
                         {

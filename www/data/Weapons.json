@@ -52,7 +52,7 @@
         ],
         "iconIndex": 84,
         "name": "Hentai Skill",
-        "note": "<Set Sts Data>\nskill 1: 2,3,4,5,0,67\nskill 2: 8,9,10,11,0,68\nskill 3: 14,15,16,17,0,27\nskill 4: 59,31,32,72,33,78\n</Set Sts Data>",
+        "note": "<Set Sts Data>\nskill 1: 2,3,4,5,6,67\nskill 2: 8,9,10,11,12,68\nskill 3: 14,15,16,17,18,27\nskill 4: 59,31,32,72,33,78\n</Set Sts Data>",
         "params": [
             0,
             0,
