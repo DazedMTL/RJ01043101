@@ -16349,7 +16349,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "D_TEXT    Month Day 18"
+                                "D_TEXT Month_Day 18"
                             ]
                         },
                         {
