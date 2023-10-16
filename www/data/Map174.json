@@ -1442,7 +1442,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "D_TEXT \\v[136]\\v[137]月\\v[138]\\v[139]日\\v[273]　\\c[14]残り\\v[140]日 15"
+                                "D_TEXT \\v[136]\\v[137]_month_\\v[138]\\v[139]_day_\\v[273]　\\c[14]残り\\v[140]日 15"
                             ]
                         },
                         {
@@ -1704,7 +1704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんだか緊張してきた…"
+                                "I-I'm starting to feel nervous..."
                             ]
                         },
                         {
@@ -1735,14 +1735,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな…\\."
+                                "Don't worry... It'll be okay!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫だよ！"
+                                ""
                             ]
                         },
                         {
@@ -1791,14 +1791,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん"
+                                "Mizuki-san is a kind person, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "優しい人だよ？"
+                                ""
                             ]
                         },
                         {
@@ -1844,7 +1844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ、分かってるけど…"
+                                "Y-Yes, I understand but..."
                             ]
                         },
                         {
@@ -1893,14 +1893,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テレビでも紹介されてた"
+                                "She's an amazing person who has been\nfeatured on TV, after all..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "凄い人なわけだし…"
+                                ""
                             ]
                         },
                         {
@@ -1917,14 +1917,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私なんかがお近づきになって"
+                                "I wonder if it's okay for someone like\nme to get close to her..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良いのかなって思うと…"
+                                ""
                             ]
                         },
                         {
@@ -1980,14 +1980,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう…"
+                                "Well... I guess there's no helping it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仕方ないなあ"
+                                ""
                             ]
                         },
                         {
@@ -2046,7 +2046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞ピンポーン"
+                                ">Ding Dong"
                             ]
                         },
                         {
@@ -2145,7 +2145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞ガチャ"
+                                ">Gacha"
                             ]
                         },
                         {
@@ -2266,14 +2266,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ"
+                                "Oh, you're here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "来たわね"
+                                ""
                             ]
                         },
                         {
@@ -2355,7 +2355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ…っ！"
+                                "Ah...!"
                             ]
                         },
                         {
@@ -2426,14 +2426,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミ、ミズキさん！"
+                                "M-Mizuki-san! Hello!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは！"
+                                ""
                             ]
                         },
                         {
@@ -2493,7 +2493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは、結衣ちゃん"
+                                "Hello, Yui-chan."
                             ]
                         },
                         {
@@ -2542,7 +2542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……って"
+                                "...to"
                             ]
                         },
                         {
@@ -2598,14 +2598,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは！"
+                                "Hello! Mizuki-san."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん"
+                                ""
                             ]
                         },
                         {
@@ -2673,7 +2673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…なんでアンタもいるのよ"
+                                "Why are you here too?"
                             ]
                         },
                         {
@@ -2745,7 +2745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えーっと…"
+                                "Um..."
                             ]
                         },
                         {
@@ -2762,14 +2762,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が誘ったんです…"
+                                "I invited her... We were supposed to go\nout and have fun."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "遊びに行くって話だったから"
+                                ""
                             ]
                         },
                         {
@@ -2829,7 +2829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ～……"
+                                "Ah~..."
                             ]
                         },
                         {
@@ -2911,7 +2911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…あれ"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -2982,14 +2982,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかして"
+                                "Did I perhaps get in the way...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お邪魔だった…？"
+                                ""
                             ]
                         },
                         {
@@ -3064,7 +3064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ま、良いわ"
+                                "...Well, it's fine."
                             ]
                         },
                         {
@@ -3139,14 +3139,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結衣ちゃんに来てもらったのは"
+                                "Yui-chan came here because of you too,\nyou know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]アンタの件\\c[0]でもあるからね"
+                                ""
                             ]
                         },
                         {
@@ -3224,7 +3224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -3325,7 +3325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…\\n[1]君の？"
+                                "...\\n[1]-kun's?"
                             ]
                         },
                         {
@@ -3385,7 +3385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早いか遅いかの違いかな…"
+                                "It's probably just a difference of being\nearly or late..."
                             ]
                         },
                         {
@@ -3446,14 +3446,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず入って？"
+                                "For now, come inside? I'll make you a\ndrink."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "飲み物いれてあげる"
+                                ""
                             ]
                         },
                         {
@@ -3561,7 +3561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、もしかして水ですか！？"
+                                "Ah, is it water by any chance!?"
                             ]
                         },
                         {
@@ -3672,14 +3672,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンタねえ…\\."
+                                "Hey, you know... don't go blabbering\nabout everything..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何でもかんでも話すんじゃないわよ…"
+                                ""
                             ]
                         },
                         {
@@ -3735,14 +3735,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あはは…"
+                                "Ah, ahaha... I'm sorry..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ごめんなさい…"
+                                ""
                             ]
                         },
                         {
@@ -4007,14 +4007,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……で、"
+                                "...So, what is this conversation\nabout?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お話ってなんでしょう？"
+                                ""
                             ]
                         },
                         {
@@ -4086,14 +4086,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうねぇ…\\."
+                                "Hmm... I wonder where should we start\nthe conversation from..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どこから話そうかしら…"
+                                ""
                             ]
                         },
                         {
@@ -4168,21 +4168,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このあいだ集まった時、"
+                                "When we gathered the other day, we\ntalked about how \\n[1]'s future is in\ntrouble, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]の将来がヤバいって話は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "したわよね？"
+                                ""
                             ]
                         },
                         {
@@ -4264,14 +4264,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、やっぱり"
+                                "Ah, so it's about that conversation\nafter all..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その話なんですね…"
+                                ""
                             ]
                         },
                         {
@@ -4356,7 +4356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うう…っ"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -4423,21 +4423,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]に現状の生活に満足して"
+                                "There is a danger that if \\n[1] is not\nsatisfied with his current life, he will\nprey on the girls in town..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もらわないと街中の女の子を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "毒牙にかける危険がある…"
+                                ""
                             ]
                         },
                         {
@@ -4497,14 +4497,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを未然に防ぐ為には"
+                                "We need to do something about it in\norder to prevent that from happening..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私達でなんとかする必要がある…"
+                                ""
                             ]
                         },
                         {
@@ -4579,14 +4579,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……って、"
+                                "...So, that's what we were talking\nabout, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そういう話でしたよね？"
+                                ""
                             ]
                         },
                         {
@@ -4646,7 +4646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうそう"
+                                "Oh, right."
                             ]
                         },
                         {
@@ -4707,14 +4707,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからまあ、私も不本意ながら"
+                                "So, well, the reason I reluctantly\nparticipated in the meeting the other\nday..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この間の会合に参加した訳なんだけど…"
+                                ""
                             ]
                         },
                         {
@@ -4792,14 +4792,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（その割には"
+                                "\\c[14](Despite that, Mizuki-san...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ミズキさん…）"
+                                ""
                             ]
                         },
                         {
@@ -4838,14 +4838,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（凄いえっちに"
+                                "\\c[14](She was moaning so lewdly...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　喘いでたけど…）"
+                                ""
                             ]
                         },
                         {
@@ -4961,7 +4961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>＞ポカッ\\<\\^"
+                                ">Oops\\^"
                             ]
                         },
                         {
@@ -5017,7 +5017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いたっ！"
+                                "Ouch!"
                             ]
                         },
                         {
@@ -5088,14 +5088,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、何も"
+                                "I-I didn't say anything!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "言ってないのに！"
+                                ""
                             ]
                         },
                         {
@@ -5183,7 +5183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それで……"
+                                "S-So, um..."
                             ]
                         },
                         {
@@ -5200,7 +5200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "効果はあったんですか？"
+                                "Did it have any effect?"
                             ]
                         },
                         {
@@ -5260,7 +5260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それがねえ……"
+                                "Well, you see..."
                             ]
                         },
                         {
@@ -5315,14 +5315,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぜんぜん未来、"
+                                "The future hasn't changed at all,\nhuh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "変わってないのよねぇ…"
+                                ""
                             ]
                         },
                         {
@@ -5416,7 +5416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？"
+                                "Eh!?"
                             ]
                         },
                         {
@@ -5488,21 +5488,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "普通、予見した未来を変えようと"
+                                "Normally, if you take action to change\nthe future you foresaw, there will be\nsome kind of change, big or small."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "行動したら大なり小なり何かしら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "変化があるもんなのよ"
+                                ""
                             ]
                         },
                         {
@@ -5551,14 +5551,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも\\n[1]の未来には"
+                                "But there hasn't been any change in\n\\n[1]'s future..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一切の変化が起きてない…"
+                                ""
                             ]
                         },
                         {
@@ -5640,7 +5640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "と、いうことは…？"
+                                "And, what does that mean...?"
                             ]
                         },
                         {
@@ -5738,14 +5738,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この子が全然"
+                                "This child is not satisfied with the\ncurrent situation at all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]現状に満足してない\\c[0]ってこと"
+                                ""
                             ]
                         },
                         {
@@ -5823,7 +5823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？"
+                                "Eh!?"
                             ]
                         },
                         {
@@ -5872,7 +5872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そんなことないよ！"
+                                "N-No, that's not true!"
                             ]
                         },
                         {
@@ -5943,14 +5943,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毎日色んな子と"
+                                "I have sex with different girls every\nday...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "エッチしてるし…！"
+                                ""
                             ]
                         },
                         {
@@ -5989,14 +5989,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "沢山の女の子に"
+                                "Surrounded by lots of girls...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "囲まれて…っ！"
+                                ""
                             ]
                         },
                         {
@@ -6067,14 +6067,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごく"
+                                "Are you really satisfied?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "満足してるよ！？"
+                                ""
                             ]
                         },
                         {
@@ -6175,7 +6175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、改めて聞くと…"
+                                "Ah, if I ask again..."
                             ]
                         },
                         {
@@ -6192,14 +6192,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "凄いこと言ってるよね"
+                                "\\n[1]-kun, you're saying something\namazing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]君……"
+                                ""
                             ]
                         },
                         {
@@ -6293,7 +6293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほんと……"
+                                "Really..."
                             ]
                         },
                         {
@@ -6310,14 +6310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうして周りに"
+                                "I wonder why this is allowed to happen\naround me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これが許されてるのかしら…"
+                                ""
                             ]
                         },
                         {
@@ -6395,14 +6395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（自分だって"
+                                "\\c[14](Even though I'm also involved...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　当事者なのに…）"
+                                ""
                             ]
                         },
                         {
@@ -6469,14 +6469,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも……\\."
+                                "But... then what should we do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあどうするんですか？"
+                                ""
                             ]
                         },
                         {
@@ -6493,14 +6493,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このままじゃ"
+                                "If we continue like this, the future\nwon't change, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "未来は変わらないんですよね？"
+                                ""
                             ]
                         },
                         {
@@ -6560,7 +6560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ"
+                                "Yes."
                             ]
                         },
                         {
@@ -6621,14 +6621,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからまあ、色々考えた結果"
+                                "So, well, after considering various\nthings, the result that seems to be the\nmost effective is..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一番効果がありそうなのが……"
+                                ""
                             ]
                         },
                         {
@@ -6703,7 +6703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この子に\\c[14]\"刺激\"\\c[0]を与えること"
+                                "Giving this child\n\\c[14]stimulation\\c[0]"
                             ]
                         },
                         {
@@ -6781,7 +6781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…し、刺激？"
+                                "...stimulation?"
                             ]
                         },
                         {
@@ -6848,14 +6848,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女の子に不便しない生活が"
+                                "You, who has made a life where girls\ndon't feel inconvenienced, has become\nthe norm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "日常になってるアンタは……"
+                                ""
                             ]
                         },
                         {
@@ -6930,14 +6930,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今のハーレム状態でさえ、"
+                                "Even in the current harem state, it\nfeels like \\c[14]monotony\\c[0]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]マンネリ\\c[0]に感じてるってことよ"
+                                ""
                             ]
                         },
                         {
@@ -7015,7 +7015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？"
+                                "Eh!?"
                             ]
                         },
                         {
@@ -7104,7 +7104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、だから将来…"
+                                "S-So, about the future..."
                             ]
                         },
                         {
@@ -7121,14 +7121,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新しい刺激を求めて他の子に"
+                                "Are you saying that you're seeking new\nstimulation by getting involved with\nother girls...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手を出しちゃうってことなのかな…？"
+                                ""
                             ]
                         },
                         {
@@ -7200,7 +7200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういうこと"
+                                "That's what I mean."
                             ]
                         },
                         {
@@ -7261,14 +7261,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、効果があるかは分かんないから"
+                                "Well, since I'm not sure if it will be\neffective, let's consult with Yui-chan\nfor now..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず結衣ちゃんに相談して…"
+                                ""
                             ]
                         },
                         {
@@ -7285,14 +7285,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一ノ瀬家に色々試してもらおうと"
+                                "I thought about having the Ichinose\nfamily try various things."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "思ったってわけ"
+                                ""
                             ]
                         },
                         {
@@ -7374,7 +7374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうだったんだ…"
+                                "I-Is that so..."
                             ]
                         },
                         {
@@ -7435,7 +7435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]君…"
+                                "\\n[1]-kun..."
                             ]
                         },
                         {
@@ -7478,14 +7478,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私達とのエッチ"
+                                "Are you saying that our sex life has\nbecome monotonous...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "マンネリになってるんだ…？"
+                                ""
                             ]
                         },
                         {
@@ -7563,14 +7563,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そんなこと"
+                                "T-That's not true...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ないってば…！"
+                                ""
                             ]
                         },
                         {
@@ -7641,7 +7641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そりゃ確かに…"
+                                "W-Well, that's certainly..."
                             ]
                         },
                         {
@@ -7658,14 +7658,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっとこうだと"
+                                "It seems like it would be better if it\nwere more like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良いみたいな…"
+                                ""
                             ]
                         },
                         {
@@ -7682,14 +7682,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういうのは"
+                                "Well, there is something like that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あるけど……"
+                                ""
                             ]
                         },
                         {
@@ -7768,7 +7768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふ～ん…"
+                                "Hmmm..."
                             ]
                         },
                         {
@@ -7846,7 +7846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも別にっ！"
+                                "But it's not like that!"
                             ]
                         },
                         {
@@ -7895,14 +7895,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マンネリって"
+                                "It's not like it's become monotonous!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "訳じゃ…！"
+                                ""
                             ]
                         },
                         {
@@ -7995,14 +7995,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…それじゃ何か"
+                                "...So, does that mean you have some\nideas?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アイディアがあるってわけね？"
+                                ""
                             ]
                         },
                         {
@@ -8080,7 +8080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え…？"
+                                "Huh...?"
                             ]
                         },
                         {
@@ -8159,14 +8159,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…確かに、"
+                                "...Certainly, from \\n[1]'s current tone\nof voice..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今の\\n[1]君の口ぶりだと…"
+                                ""
                             ]
                         },
                         {
@@ -8183,7 +8183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か要望があるみたいだったよね？"
+                                "It seemed like you had some requests,\nright?"
                             ]
                         },
                         {
@@ -8261,7 +8261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、えーっと…"
+                                "Um, umm..."
                             ]
                         },
                         {
@@ -8300,14 +8300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ…"
+                                "Well... um..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その……"
+                                ""
                             ]
                         },
                         {
@@ -8385,7 +8385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい……"
+                                "Yes..."
                             ]
                         },
                         {
@@ -8464,7 +8464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ……"
+                                "Sigh..."
                             ]
                         },
                         {
@@ -8493,14 +8493,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハーレムでは飽き足らず"
+                                "In addition to the harem, there are\nstill things I want to do..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだまだシたい事があるって…"
+                                ""
                             ]
                         },
                         {
@@ -8517,14 +8517,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当、呆れるほどに"
+                                "Seriously, it's monstrously\nridiculous..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "モンスターね……"
+                                ""
                             ]
                         },
                         {
@@ -8602,7 +8602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あはは……"
+                                "Ah, ahaha..."
                             ]
                         },
                         {
@@ -8681,7 +8681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]"
+                                "Hehe...\\kw[1]"
                             ]
                         },
                         {
@@ -8756,14 +8756,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、\\n[1]君\\kw[1]"
+                                "Come on, \\n[1]-kun \\kw[1], why don't you\ntry saying it without being shy? \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "恥ずかしがらずに言ってみて？\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -8812,14 +8812,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]君の"
+                                "It's for \\n[1]-kun's future, you know...\nright? \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "将来の為なんだから…ね？\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -8917,7 +8917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この地球の為でも、ね"
+                                "Even for the sake of this Earth, you\nknow."
                             ]
                         },
                         {
@@ -8995,14 +8995,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]（スケールが"
+                                "\\c[14](The scale has become larger...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　大きくなってる…！）"
+                                ""
                             ]
                         },
                         {
@@ -9080,14 +9080,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、えっと"
+                                "Um, um, well then..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それじゃあ…"
+                                ""
                             ]
                         },
                         {
@@ -9104,14 +9104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実はしてもらいたい"
+                                "Actually, there's something I want you\nto do for me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ことがあって……"
+                                ""
                             ]
                         },
                         {
@@ -9383,14 +9383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあっ"
+                                "Haa...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あ…っ！"
+                                ""
                             ]
                         },
                         {
@@ -9407,7 +9407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すご…っ"
+                                "Wow..."
                             ]
                         },
                         {
@@ -9446,14 +9446,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おちんちんも"
+                                "Both the penis and the asshole..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お尻の穴も…っ"
+                                ""
                             ]
                         },
                         {
@@ -9492,7 +9492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "凄く気持ち良いっ！"
+                                "It feels really good!"
                             ]
                         },
                         {
@@ -9523,14 +9523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅるるっ\\kw[1]んっ\\kw[1]"
+                                "*slurp* *slurp* *chu*... *moan*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゅぷ…っ\\kw[2]"
+                                ""
                             ]
                         },
                         {
@@ -9594,14 +9594,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう…\\kw[1]"
+                                "Jeez... \\n[1]-kun..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]君ってば…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -9618,14 +9618,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなことシて"
+                                "I wanted you to do something like\nthis... \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "欲しかったんだ…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -9668,14 +9668,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほんと……\\kw[1]"
+                                "Really... *kiss*... *moan*..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゅ…っ\\kw[1]ん…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -9692,14 +9692,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "考えることが変態すぎよ…\\kw[1]"
+                                "You think such perverted things...\n\\n[1]..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -9745,14 +9745,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ…っ"
+                                "Ah... Mizuki-san..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん…っ"
+                                ""
                             ]
                         },
                         {
@@ -9792,38 +9792,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口を尖らせながらもその舌先を"
+                                "Mizuki, with her mouth pouting, inserts\nher tongue deep into \\n[1]'s asshole."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]の尻穴深くへ挿入するミズキ"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結衣も負けずと下品な音を響かせながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n[1]の肉棒をじゅるじゅる\\kw[1]と啜っていく"
+                                ""
                             ]
                         },
                         {
@@ -9840,14 +9816,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]の眼前では結衣がフェラチオし、"
+                                "Yui, not to be outdone, slurps and sucks on \\n[1]'s meat stick while making vulgar sounds. \n\nYui, not to be outdone, slurps and sucks on \\n[1]'s meat stick while making vulgar sounds."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その後ろでは尻穴を舐めしゃぶるミズキ"
+                                ""
                             ]
                         },
                         {
@@ -9864,14 +9840,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "同時に二つの穴を舐めて欲しいと懇願した"
+                                "Yui is giving \\n[1] a blowjob right in\nfront of him, while Mizuki licks and\nsucks on his asshole from behind."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]は、２人に前後の奉仕をお願いしていた"
+                                "\\n[1], who pleaded to have both of his\nholes licked at the same time, asked\nboth of them to serve him from the front\nand back."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9942,38 +9942,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…っ\\kw[1]ふふっ…\\kw[1]\\."
+                                "Mmm... hehe... \\n[1]-kun, you look so\npleasured..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]君、気持ちよさそう…\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ミズキさんがお尻舐める度…\\kw[1]\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゅ…っ\\kw[1]じゅぷっ\\kw[2]"
+                                ""
                             ]
                         },
                         {
@@ -9990,14 +9966,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おちんちんヒクヒクして…\\kw[1]"
+                                "Every time Mizuki-san licks his ass... \\kw[1]chu... \\kw[1]jupu... \\kw[2]\n\n"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んぶっ\\kw[1]ちゅ…っ\\kw[1]"
+                                "My dick is throbbing... \\kw[1]nubu...\n\\kw[1]chu... \\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10049,14 +10049,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさんの舌…\\kw[1]"
+                                "Mizuki-san's tongue... \\kw[1] Does it\nfeel that good...? \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなに気持ち良いんだ…？\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -10102,14 +10102,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん…っ！"
+                                "Yes...! Mizuki-san's tongue...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさんの舌…っ！"
+                                ""
                             ]
                         },
                         {
@@ -10126,14 +10126,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お尻の穴をほじくるように"
+                                "The tongue enters as if digging into the\nasshole..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "舌が入って…っ"
+                                ""
                             ]
                         },
                         {
@@ -10172,7 +10172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "凄く気持ち良いよ…っ！"
+                                "It feels really good...!"
                             ]
                         },
                         {
@@ -10243,38 +10243,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…っ\\kw[1]ちゅ…\\kw[1]"
+                                "Mmm... \\\\kw[1]chu... \\\\kw[1]already...\n\\\\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう……\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人にこんなことさせて…\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゅ…\\kw[1]ん…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -10291,14 +10267,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝手に盛り上がってんじゃ"
+                                "Making someone do something like\nthis... \\\\kw[1]chu... \\\\kw[1]n...\n\\\\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ないわよ…\\kw[1]ちゅるるっ\\kw[1]"
+                                "Don't get carried away on your own...\n\\kw[1] Chururu~ \\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10344,14 +10344,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ…っ！"
+                                "Ah...! Mizuki-san...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん…っ！"
+                                ""
                             ]
                         },
                         {
@@ -10422,7 +10422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]"
+                                "Hehe... \\kw[1]"
                             ]
                         },
                         {
@@ -10439,14 +10439,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]君ったら"
+                                "\\n[1]-kun, you have such a mesmerized\nexpression... \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "蕩けた表情しちゃって…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -10463,14 +10463,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃんも…\\kw[1]\\."
+                                "Onee-san too... \\kw[1]nchu \\kw[1]jupu...\n\\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んちゅっ\\kw[1]じゅぷ…っ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -10562,14 +10562,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いっぱいおしゃぶり"
+                                "I'll give you a lot of blowjobs,\nokay... \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "するからね……っ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -10586,14 +10586,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅるるっ\\kw[1]"
+                                "Chururu~nbuttu~chu~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んぶっ\\kw[1]ちゅっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -10639,7 +10639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結衣お姉ちゃん…っ！"
+                                "Onee-san Yui...!"
                             ]
                         },
                         {
@@ -10663,14 +10663,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅぷっ\\kw[1]じゅぷっ\\kw[1]とわざと"
+                                "Yui deliberately makes slurping sounds\n\\kw[1] \\kw[1] to arouse \\n[1]'s\nexcitement."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "下品な音を立て\\n[1]の興奮を誘う結衣"
+                                ""
                             ]
                         },
                         {
@@ -10687,14 +10687,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃんも褒めて？\\kw[1]と\\n[1]の顔色を伺いながら"
+                                "Onee-san, should I praise you too?\n\\kw[1] While gauging \\n[1]'s reaction,\nshe serves his meat stick with a vulgar\nblowjob face."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "下品なフェラ顔で\\n[1]の肉棒を奉仕する"
+                                ""
                             ]
                         },
                         {
@@ -10740,14 +10740,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結衣お姉ちゃんの"
+                                "Yui Onee-san's blowjob face... it's\ngood...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フェラ顔…良い…っ！"
+                                ""
                             ]
                         },
                         {
@@ -10764,14 +10764,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "凄く下品な顔で"
+                                "Suck my dick with a very vulgar\nface..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おちんちんしゃぶって…っ"
+                                ""
                             ]
                         },
                         {
@@ -10810,14 +10810,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごい…っ"
+                                "Wow... I'm getting so excited...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "興奮する……っ！"
+                                ""
                             ]
                         },
                         {
@@ -10841,14 +10841,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んふふ…っ\\kw[1]"
+                                "Nfufu... \\kw[1] I'm happy... \\kw[2]\nchupo"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "嬉し…\\kw[2]ちゅぽっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -10865,14 +10865,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと見て…？\\kw[1]"
+                                "Do you want to see more...? \\kw[1]\nOnee-san's blowjob face... \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃんのフェラ顔…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -10924,14 +10924,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]君のおちんちん…\\kw[1]\\."
+                                "\\n[1]-kun's penis... \\kw[1] I'll take\nmore of it in my mouth, so watch...?\n\\kw[2]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もっと頬張るから見てて…？\\kw[2]"
+                                ""
                             ]
                         },
                         {
@@ -10983,21 +10983,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んじゅるっ\\kw[1]じゅぷっ！\\kw[1]\\."
+                                "Njuru~n \\kw[1] jupu~tsu! \\kw[1]\nChururu~n \\kw[1] nbu~tsu \\kw[2] nbu~tsu\n\\kw[1] gyupo~tsu \\kw[2]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゅるるっ\\kw[1]んぶっ\\kw[2]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んぶっ\\kw[1]ぎゅぽっ\\kw[2]"
+                                ""
                             ]
                         },
                         {
@@ -11043,14 +11043,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ！あっ！"
+                                "Ah! Ah! There! Amazing...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それっ！すご…っ！"
+                                ""
                             ]
                         },
                         {
@@ -11074,14 +11074,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "喉奥まで\\n[1]の肉棒を咥え入れ"
+                                "She takes \\n[1]'s meat stick deep into\nher throat, moving her face up and down\nas she strokes it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その顔を上下させストロークしていく"
+                                ""
                             ]
                         },
                         {
@@ -11120,7 +11120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]あの清楚な面倒見の良いお姉ちゃんが―――"
+                                "That neat and caring Onee-san---"
                             ]
                         },
                         {
@@ -11144,21 +11144,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んぶっ\\kw[1]ちゅっ\\kw[2]"
+                                "Nbu~tsu \\kw[1] chu~tsu \\kw[2]\njururu~tsu \\kw[1] gupo~tsu \\kw[1]\nnbu~tsu \\kw[2] nchururu~tsu \\kw[2]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゅるるっ\\kw[1]ぐぽっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んぶっ\\kw[2]んちゅるるっ\\kw[2]"
+                                ""
                             ]
                         },
                         {
@@ -11204,7 +11204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]こんな下品な顔で僕を見つめて―――"
+                                "\\c[14]Staring at me with such a vulgar\nexpression---"
                             ]
                         },
                         {
@@ -11221,14 +11221,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "普段のしっかり者の結衣を知っているからこそ"
+                                "Because \\n[1] knows Yui as a responsible\nperson in her daily life, this contrast\nand gap stimulate his brain."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この落差のギャップが\\n[1]の脳を刺激していく"
+                                ""
                             ]
                         },
                         {
@@ -11264,14 +11264,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅ…っ\\kw[1]んんっ\\kw[1]"
+                                "Chu...nnn\\kw[1] Yui-chan, such amazing\nsounds...\\kw[2]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結衣ちゃん、凄い音…\\kw[2]"
+                                ""
                             ]
                         },
                         {
@@ -11288,14 +11288,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お尻の穴も締まって…\\kw[1]"
+                                "The asshole is tight too... \\kw[1]\nChu... \\kw[1] It's squeezing... \\kw[2]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゅ…っ\\kw[1]れる…っ\\kw[2]"
+                                ""
                             ]
                         },
                         {
@@ -11319,7 +11319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうイキそうなの…？\\kw[1]"
+                                "Are you about to cum...? \\kw[1]"
                             ]
                         },
                         {
@@ -11365,7 +11365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん…っ！"
+                                "Yes...!"
                             ]
                         },
                         {
@@ -11382,14 +11382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このまま…っ"
+                                "Like this... I, already...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕、もう……っ！"
+                                ""
                             ]
                         },
                         {
@@ -11425,14 +11425,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…っ\\kw[1]\\."
+                                "Mmm... then I'll... do it too..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それじゃ私も…れるっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -11449,7 +11449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑張んないとね…\\kw[1]"
+                                "You have to do your best... \\kw[1]"
                             ]
                         },
                         {
@@ -11519,14 +11519,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅるるっ\\kw[1]んっ\\kw[1]"
+                                "*smooch* *smooch* *lick* *suck*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゅるっ\\kw[1]ちゅぷっ\\kw[2]"
+                                ""
                             ]
                         },
                         {
@@ -11572,7 +11572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ…っ！"
+                                "Ah...!"
                             ]
                         },
                         {
@@ -11589,14 +11589,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさんの舌…っ！"
+                                "Mizuki-san's tongue...! It's\nentering...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はいってきて…っ！"
+                                ""
                             ]
                         },
                         {
@@ -11632,7 +11632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞じゅるるっ\\kw[1]ぐぽっ\\kw[1]ぐぽっ\\kw[1]"
+                                "*slurp* *gulp* *gulp*"
                             ]
                         },
                         {
@@ -11649,14 +11649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]の見えない角度でいやらしい"
+                                "Mizuki, with a lewd expression on her\nface from an angle \\n[1] can't see,\ninserts her tongue into his asshole."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "顔つきで尻穴へ舌を挿入していくミズキ"
+                                ""
                             ]
                         },
                         {
@@ -11673,14 +11673,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガクガクと足が震えるような快感に加え"
+                                "The pleasure that makes my legs tremble\nuncontrollably is accompanied by\nrelentless waves of pleasure from both\nthe front and the back."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "容赦なく前後から快楽の波が押し寄せてくる"
+                                ""
                             ]
                         },
                         {
@@ -11704,21 +11704,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んじゅるるっ\\kw[1]\\."
+                                "*slurp* *suck*... *gulp*... *thrust*\n*thrust*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゅぽ…っ\\kw[1]んぶっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぐぽっ\\kw[1]ぐぽっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -11770,14 +11770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら\\n[1]…？ちゅっ\\kw[1]"
+                                "Hey \\n[1]...? *smooch* How about\nthis...? *smooch*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これはどう…かしら？\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -11836,7 +11836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞ちゅるるるる～っ\\kw[1]"
+                                "*chu-rurururu~* \\kw[1]"
                             ]
                         },
                         {
@@ -11882,14 +11882,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ…っ！"
+                                "Ah...! My asshole is being sucked...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お尻の穴吸われて…っ"
+                                ""
                             ]
                         },
                         {
@@ -11906,14 +11906,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん…っ"
+                                "Mizuki-san... good...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良い…っ！"
+                                ""
                             ]
                         },
                         {
@@ -11937,14 +11937,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "舌先の抽挿に加え"
+                                "The unknown sensation of having my\ntongue inserted and my asshole sucked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "尻穴を吸われるという未知の感覚"
+                                ""
                             ]
                         },
                         {
@@ -11961,14 +11961,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今までに体験したことのない快楽が"
+                                "The pleasure that \\n[1] has never\nexperienced before is etching into his\nbrain."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]の脳を新たに刻んでいく"
+                                ""
                             ]
                         },
                         {
@@ -12027,38 +12027,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅぷっ\\kw[1]じゅぽっ\\kw[1]"
+                                "*suck* *lick* *gulp* *penis* is\namazing... *moan*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んっ\\kw[1]おちんちんスゴ…っ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中で…っ\\kw[1]んっ\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膨らんできてる…っ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -12075,14 +12051,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうイキそう…？\\kw[1]"
+                                "Inside... it's getting... \\kw[1]\nswollen... \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]君…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -12099,14 +12075,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おちんちん出ちゃう？\\kw[1]"
+                                "I'm about to cum...? \\kw[1] \\n[1]-kun...\n\\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぴゅっぴゅしちゃう？\\kw[1]"
+                                "Is your penis coming out? \\kw[1] Are\nyou going to shoot? \\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12152,14 +12152,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん…っ！\\."
+                                "Yes...! More! I'm coming...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もっ！出る…っ！"
+                                ""
                             ]
                         },
                         {
@@ -12176,14 +12176,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イクよ"
+                                "I'm coming, Onee-san Yui..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結衣お姉ちゃん…っ"
+                                ""
                             ]
                         },
                         {
@@ -12222,14 +12222,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お口に中出し…っ！"
+                                "Cumming in your mouth...! I'm\ncumming...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "イク…っ！"
+                                ""
                             ]
                         },
                         {
@@ -12377,7 +12377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んんんんんん～～～～っ\\kw[2]"
+                                "Mmmmm~ \\kw[2]"
                             ]
                         },
                         {
@@ -12487,7 +12487,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\I[170]奉仕度が\\c[14]+50\\c[0]上がった！"
+                                "ShowInfo \\I[170]_Service_level_increased_by_\\c[14]+50\\c[0]!"
                             ]
                         },
                         {
@@ -12540,14 +12540,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ…っ"
+                                "Haa... haa..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　はあ…っ"
+                                ""
                             ]
                         },
                         {
@@ -12571,14 +12571,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごい…\\kw[1]"
+                                "Amazing... so many..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなにたくさん…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -12614,7 +12614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほんと凄い量…\\kw[1]"
+                                "Wow, such an incredible amount...\n\\kw[1]"
                             ]
                         },
                         {
@@ -12631,14 +12631,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこにコレ溜まってんのよ…"
+                                "Where is all this accumulating...\nhonestly..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったく……\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -12684,14 +12684,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うう……"
+                                "Ugh... Mizuki-san..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん…"
+                                ""
                             ]
                         },
                         {
@@ -12731,14 +12731,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう悪態つきながらも射精した身体を"
+                                "Mizuki continues to gently lick the body\nthat ejaculated while making such a\nvulgar gesture."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "労るように優しく尻舐めを続けるミズキ"
+                                ""
                             ]
                         },
                         {
@@ -12755,14 +12755,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]の身体の痙攣をあやすように"
+                                "\\n[1] was carefully licking and soothing\nthe entrance as if to calm the\nconvulsions of his body."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "丁寧にその入り口を舐め癒やしてあげていた"
+                                ""
                             ]
                         },
                         {
@@ -12798,7 +12798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]"
+                                "Hehe... \\kw[1]"
                             ]
                         },
                         {
@@ -12862,14 +12862,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごきゅっ\\kw[1]んっ\\kw[1]\\."
+                                "Gokyuu \\kw[1] nnn \\kw[1] chupu...\n\\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゅぷ…っ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -12919,7 +12919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……"
+                                "Ah..."
                             ]
                         },
                         {
@@ -12943,14 +12943,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大量に射精し汚された口内を咀嚼し"
+                                "Yui, who had ejaculated a large amount\nand had her mouth dirtied, began to\nsavor and swallow the semen as if\nchewing it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "味わうように精飲していく結衣"
+                                ""
                             ]
                         },
                         {
@@ -12967,14 +12967,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "溢れる程の大量の精子を口いっぱいに頬張り"
+                                "Yui, who had an overflowing amount of\nsemen, filled her mouth and slowly\npoured it down her throat."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少しずつその喉奥へと流し込んでいく"
+                                ""
                             ]
                         },
                         {
@@ -13010,14 +13010,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…っ\\kw[1]"
+                                "Mmm... \\\\kw[1] Gokyuu \\\\kw[1] Gokyuu\n\\\\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ごきゅっ\\kw[1]ごきゅ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -13110,7 +13110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぷは…っ\\kw[1]"
+                                "Puh... \\kw[1]"
                             ]
                         },
                         {
@@ -13156,7 +13156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結衣お姉ちゃん…"
+                                "Onee-san Yui..."
                             ]
                         },
                         {
@@ -13180,14 +13180,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "下品な顔で\\n[1]を見つめながら"
+                                "Yui, with a vulgar expression on her\nface, stared at \\n[1] and opened her\nmouth wide to show him the inside that\nshe had swallowed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "飲み干した口内を広げ見せつける結衣"
+                                ""
                             ]
                         },
                         {
@@ -13204,14 +13204,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その口臭は\\n[1]の精子の匂いで溢れ"
+                                "The smell of \\n[1]'s semen overflowing\nfrom her mouth further accentuated the\ncontrast between Yui's cleanliness."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "清楚な結衣とのギャップを更に引き立てていた"
+                                ""
                             ]
                         },
                         {
@@ -13247,7 +13247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴクリ……"
+                                "*Gulp...*"
                             ]
                         },
                         {
@@ -13318,7 +13318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]"
+                                "Hehe... \\kw[1]"
                             ]
                         },
                         {
@@ -13361,14 +13361,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら……\\kw[1]"
+                                "Look... \\kw[1] It's Mizuki-san's turn\nnext, right...? \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "次はミズキさんの番だよ…？\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -13385,14 +13385,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]君のおちんちん…\\kw[1]"
+                                "\\n[1]-kun's penis... \\kw[1] Would you\nlike me to clean it up...? \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お掃除してあげて…？\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -13438,7 +13438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゆ、結衣お姉ちゃん…"
+                                "Y-Yui Onee-san..."
                             ]
                         },
                         {
@@ -13462,14 +13462,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目をトロン\\kw[1]と蕩けさせながら"
+                                "Yui, with a lascivious expression that\nmade her eyes go round and hazy \\kw[1],\nurged Mizuki to take her turn."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "淫猥な表情でミズキに手番を促す結衣"
+                                ""
                             ]
                         },
                         {
@@ -13486,14 +13486,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "精飲してスイッチが入ったのか、結衣は当初の"
+                                "Yui, as if the switch had been turned on\nby swallowing semen, had a soft\nexpression that didn't show her initial\nnervousness."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "緊張を感じさせない柔らかな表情をしていた"
+                                ""
                             ]
                         },
                         {
@@ -13536,7 +13536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…っ\\kw[1]"
+                                "Mmm... \\kw[1]"
                             ]
                         },
                         {
@@ -13588,14 +13588,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結衣ちゃんって…"
+                                "Yui-chan... chu"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…ちゅっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -13673,14 +13673,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エッチするといつも"
+                                "Does it always feel like this when we\nhave sex...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんな感じになるの…？"
+                                ""
                             ]
                         },
                         {
@@ -13726,7 +13726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっと……"
+                                "Um..."
                             ]
                         },
                         {
@@ -13765,7 +13765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうかも……"
+                                "It might be true..."
                             ]
                         },
                         {
@@ -14105,14 +14105,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅるるっ\\kw[1]\\.ぐぽっ\\kw[1]\\."
+                                "Chururu \\kw[1] Guppo \\kw[1] Chuun\n\\kw[2] n \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゅっ\\kw[2]んっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -14158,7 +14158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ…っ！"
+                                "Ah...!"
                             ]
                         },
                         {
@@ -14175,14 +14175,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気持ち良いよ…っ"
+                                "It feels good... Mizuki-san..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん…っ"
+                                ""
                             ]
                         },
                         {
@@ -14253,7 +14253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んふふ…っ\\kw[1]"
+                                "Nfufu... \\\\kw[1]"
                             ]
                         },
                         {
@@ -14270,14 +14270,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん美味しそうに"
+                                "Mizuki-san is sucking it so\ndeliciously... \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しゃぶってる……\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -14329,7 +14329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私もお尻の穴舐めさせて？\\kw[1]"
+                                "Can I also lick your butt hole? \\kw[1]"
                             ]
                         },
                         {
@@ -14346,14 +14346,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いっぱいいっぱい"
+                                "It's okay to feel really good and be\nfilled up \\kw[1]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気持ちよくなって良いからね\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -14405,14 +14405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "れるっ\\kw[1]ちゅ…っ\\kw[1]"
+                                "Leru...chu...n..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ん…っ\\kw[2]"
+                                ""
                             ]
                         },
                         {
@@ -14458,14 +14458,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "２人とも…っ"
+                                "Both of you... are good...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良い…っ！"
+                                ""
                             ]
                         },
                         {
@@ -14505,14 +14505,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体勢を変え前後の攻めが入れ替わり"
+                                "\\n[1], who changes positions, is\nenveloped in the alternating and\ndifferent pleasures of the front and\nback attacks."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "また異なる快楽の刺激に包まれる\\n[1]"
+                                ""
                             ]
                         },
                         {
@@ -14529,14 +14529,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "再び硬化した肉棒は早くもその興奮に"
+                                "The hardened meat rod, pulsating with\nexcitement, begins to rampage inside\nMizuki's mouth."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "脈打ちながらミズキの口内で暴れ始める"
+                                ""
                             ]
                         },
                         {
@@ -14607,14 +14607,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んちゅ…っ\\kw[1]ん…っ\\kw[1]"
+                                "Nchu... \\kw[1] N... \\kw[1] It's gotten\nso hard again... \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "またこんなに硬くして…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -14631,14 +14631,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中身どうなってんのよ…\\kw[1]"
+                                "What's inside... this... slurp"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これ…っ\\kw[1]じゅるっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -14684,14 +14684,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ…っ"
+                                "Haa...haa...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　はあ…っ！"
+                                ""
                             ]
                         },
                         {
@@ -14708,7 +14708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん…っ！"
+                                "Mizuki-san...!"
                             ]
                         },
                         {
@@ -14807,21 +14807,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…っ\\kw[1]"
+                                "Mmm... slurp... suck... gulp... mmm...\nmmm... mmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゅるるっ\\kw[2]じゅぽっ\\kw[1]\\."
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぎゅぷっ\\kw[1]んっ\\kw[1]んっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -14857,7 +14857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞じゅぽっ\\kw[1]じゅぷっ\\kw[1]じゅぷっ\\kw[1]"
+                                "Jupo \\kw[1] Jupu \\kw[1] Jupu \\kw[1]"
                             ]
                         },
                         {
@@ -14874,14 +14874,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悶える\\n[1]の表情を見てミズキは"
+                                "Mizuki watches \\n[1]'s writhing\nexpression and moves her face back and\nforth, repeatedly thrusting even harder."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "顔を前後させ更に強く抽挿を繰り返す"
+                                ""
                             ]
                         },
                         {
@@ -14898,14 +14898,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪態をつきながらも\\n[1]を奉仕したい気持ちは"
+                                "The feeling of wanting to serve \\n[1],\nwhile complaining, is the same as Yui's.\nShe carefully licks and sucks on his\nentire shaft."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結衣と同じで、その竿全体を丁寧に舐めしゃぶっていく"
+                                ""
                             ]
                         },
                         {
@@ -14929,14 +14929,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んちゅっ\\kw[1]んっ\\kw[2]\\."
+                                "Nchu... \\\\kw[1] N... \\\\kw[2] Chururu...\n\\\\kw[1] Jupu..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゅるるっ\\kw[1]じゅぷっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -14953,14 +14953,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぽっ\\kw[1]んぶっ\\kw[1]\\."
+                                "*squish* *thrust* *smooch* *smooch*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゅっ\\kw[1]ちゅっ\\kw[2]"
+                                ""
                             ]
                         },
                         {
@@ -15006,14 +15006,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ…っ！"
+                                "Ah...! Mizuki-san...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん…っ！"
+                                ""
                             ]
                         },
                         {
@@ -15072,38 +15072,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]\\."
+                                "Hehe... \\n[1]-kun looks so pleasured."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]君気持ちよさそう\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ミズキさんのじゅぷじゅぷって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フェラチオ…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -15120,7 +15096,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなに気持ち良いんだ…\\kw[1]"
+                                "Mizuki-san's jupu jupu fellatio...\n\\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "It feels so good... \\kw[1]"
                             ]
                         },
                         {
@@ -15144,14 +15144,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅっ\\kw[1]んっ\\kw[2]\\."
+                                "*smooch* *moan* *slurp* *gulp*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゅるるっ\\kw[1]ぐぽっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -15222,7 +15222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]"
+                                "Hehe... \\kw[1]"
                             ]
                         },
                         {
@@ -15239,14 +15239,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさんも嫌な顔しないで"
+                                "Mizuki-san, please don't make a\ndispleased face and suck on the\npenis... \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おちんちんしゃぶって…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -15298,7 +15298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私も頑張るね…？\\kw[1]"
+                                "I'll do my best too...? \\kw[1]"
                             ]
                         },
                         {
@@ -15368,14 +15368,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅるるっ\\kw[1]むちゅっ\\kw[1]"
+                                "*squish* *thrust* *smooch* *smooch*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んっ\\kw[1]ぶぼっ\\kw[1]ちゅぷっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -15421,14 +15421,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ…っ！"
+                                "Ah...! Onee-san Yui...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結衣お姉ちゃん…っ！"
+                                ""
                             ]
                         },
                         {
@@ -15452,14 +15452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "舌先の挿入と尻穴の吸引が一気に行われ"
+                                "Yui performs anal service, inserting her\ntongue and sucking on the asshole while\nmaking indecent sounds."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "下品な音を立てながら尻穴奉仕する結衣"
+                                ""
                             ]
                         },
                         {
@@ -15476,14 +15476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性が出していけない音を容赦なく立て"
+                                "She unleashes a vulgar service that\nmercilessly produces sounds that women\nshould not make, enticing the man's\nlust."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "男の劣情を誘う下品な奉仕を繰り出していく"
+                                ""
                             ]
                         },
                         {
@@ -15507,14 +15507,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んぶっ\\kw[1]んちゅっ\\kw[2]"
+                                "*squish* *kiss* *slurp* *gulp*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゅるるっ\\kw[1]んぼっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -15560,14 +15560,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ！あっ！"
+                                "Ah! Ah! Butt...! Amazing...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お尻…っ！すご…っ！"
+                                ""
                             ]
                         },
                         {
@@ -15626,21 +15626,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んんっ\\kw[2]じゅぷぷっ\\kw[2]"
+                                "*mmm* \\kw[2] *suck* \\kw[2] *slurp*\n\\kw[1] *kiss* \\kw[1] *kiss* \\kw[2]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゅるるっ\\kw[1]ちゅっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゅっ\\kw[2]"
+                                ""
                             ]
                         },
                         {
@@ -15664,14 +15664,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "愛おしくてたまらないという表情で"
+                                "Yui lovingly licks and sucks on \\n[1]'s\nasshole with an expression of adoration."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]の尻穴を舐めしゃぶる結衣"
+                                ""
                             ]
                         },
                         {
@@ -15688,14 +15688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "舌先が男の腰振りのように抽挿され"
+                                "Her tongue is inserted like the movement\nof a man's hips, lovingly caressing deep\ninside \\n[1]'s anus with her tongue."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]の肛門奥深くを舌先で愛撫していく"
+                                ""
                             ]
                         },
                         {
@@ -15741,14 +15741,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ…っ！"
+                                "Ah...! Onee-san Yui's tongue...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結衣お姉ちゃんの舌…っ"
+                                ""
                             ]
                         },
                         {
@@ -15765,14 +15765,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お尻深くまで入って…っ"
+                                "Going deep inside the butt... feels too\ngood..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気持ち良すぎ…っ"
+                                ""
                             ]
                         },
                         {
@@ -15843,7 +15843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう…っ\\kw[1]"
+                                "Mou... \\kw[1]"
                             ]
                         },
                         {
@@ -15860,14 +15860,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんとこっちにもっ\\kw[1]"
+                                "Concentrate properly over here too...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "集中しなさい…っ\\kw[2]"
+                                ""
                             ]
                         },
                         {
@@ -15884,14 +15884,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅるるっ\\kw[1]ちゅぷっ\\kw[1]"
+                                "*slurp* *suck* *lick* *mmm*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "れるっ\\kw[2]んんっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -15937,14 +15937,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ！あっ！"
+                                "Ah! Ah! Mizuki-san...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん…っ！"
+                                ""
                             ]
                         },
                         {
@@ -15968,14 +15968,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結衣に意識を割かれたのが気に入らないように"
+                                "Mizuki, who didn't like being ignored by\nYui, intensifies the stimulation of the\nfellatio."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "フェラチオの刺激を強めていくミズキ"
+                                ""
                             ]
                         },
                         {
@@ -15992,14 +15992,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "顔を前後させるだけでなく舌先を纏わりつかせ"
+                                "She not only moves her face back and\nforth, but also wraps her tongue around\n\\n[1]'s meat stick, intensifying the\nstimulation even more."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]の肉棒を更に強く刺激していく"
+                                ""
                             ]
                         },
                         {
@@ -16070,7 +16070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んふふ…っ\\kw[1]"
+                                "Hehe... \\kw[1]"
                             ]
                         },
                         {
@@ -16087,14 +16087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅるるっ\\kw[1]んぶっ\\kw[1]\\."
+                                "*slurp* *suck* *lick* *mmm*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゅぽっ\\kw[1]んっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -16140,14 +16140,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ！あっ！"
+                                "Ah! Ah! Butt!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お尻っ！"
+                                ""
                             ]
                         },
                         {
@@ -16171,14 +16171,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "股下からミズキのストロークを伺いながら"
+                                "Yui stimulates \\n[1]'s asshole while\nlistening to Mizuki's strokes from below\nthe crotch."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あわせて\\n[1]の尻穴を刺激する結衣"
+                                ""
                             ]
                         },
                         {
@@ -16195,14 +16195,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まるで前後全ての機能が快楽に包まれるかの"
+                                "\\n[1]'s brain gradually melts in waves of\nstimulation that seem to envelop all of\nhis functions in pleasure."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ような刺激の波に\\n[1]の脳が次第に蕩けていく"
+                                ""
                             ]
                         },
                         {
@@ -16261,14 +16261,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぽっ\\kw[2]じゅぷっ\\kw[2]"
+                                "*squish* *suck* *gulp* *slurp*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んっ\\kw[1]ちゅるるっ\\kw[2]"
+                                ""
                             ]
                         },
                         {
@@ -16292,14 +16292,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶぼっ\\kw[1]ちゅっ\\kw[1]"
+                                "*slurp* *suck* *lick* *mmm*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "むちゅっ\\kw[2]んぶっ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -16345,14 +16345,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ！あっ！"
+                                "Ah! Ah! No...! Stop!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "も…っ！駄目っ！"
+                                ""
                             ]
                         },
                         {
@@ -16369,7 +16369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出るっ！出るっ！"
+                                "I'm cumming! I'm cumming!"
                             ]
                         },
                         {
@@ -16517,7 +16517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んんんんんん～～～～っ\\kw[2]"
+                                "Mmmmm~ \\kw[2]"
                             ]
                         },
                         {
@@ -16627,7 +16627,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "ShowInfo \\I[164]奉仕度が\\c[14]+50\\c[0]上がった！"
+                                "ShowInfo \\I[164]_Service_level_increased_by_\\c[14]+50\\c[0]!"
                             ]
                         },
                         {
@@ -16658,14 +16658,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ…っ"
+                                "Haa... haa... haa..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　はあ…っ"
+                                ""
                             ]
                         },
                         {
@@ -16736,14 +16736,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅるるるっ\\kw[1]んぶっ\\kw[1]"
+                                "*slurp slurp slurp* \\kw[1] *gulp* \\kw[1]\n*gulp*... \\kw[1] *gulp*... \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ん…っ\\kw[1]ごきゅ…っ\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -16772,7 +16772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごきゅ…っ\\kw[1]ん…っ\\kw[1]"
+                                "G-kyu...n...n"
                             ]
                         },
                         {
@@ -16836,7 +16836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぷは…っ\\kw[1]"
+                                "*pant...* \\kw[1]"
                             ]
                         },
                         {
@@ -16865,14 +16865,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう……\\kw[1]\\."
+                                "Already... I came too much on the\nsecond time... \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "２回目なのに出しすぎ…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -16889,14 +16889,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "溺れるかと思ったわよ…"
+                                "I thought I was going to drown...\nHonestly..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったく…"
+                                ""
                             ]
                         },
                         {
@@ -16942,7 +16942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん……"
+                                "Mizuki-san..."
                             ]
                         },
                         {
@@ -17025,14 +17025,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]"
+                                "Hehe... *lick*... *kiss*... *suck*..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "れろ…っ\\kw[1]ちゅ…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -17049,14 +17049,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]君…\\kw[1]ちゅぱ\\kw[1]"
+                                "Did it feel good when \\n[1]-kun... \\kw[1]\nsucked \\kw[1]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気持ちよかった？\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -17102,7 +17102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん…っ"
+                                "Mmm... "
                             ]
                         },
                         {
@@ -17119,14 +17119,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おちんちんも"
+                                "Both the penis and the asshole..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お尻の穴も……"
+                                ""
                             ]
                         },
                         {
@@ -17143,14 +17143,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すっごく"
+                                "It felt really good..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気持ちよかったよ…"
+                                ""
                             ]
                         },
                         {
@@ -17174,7 +17174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]"
+                                "Hehe... \\kw[1]"
                             ]
                         },
                         {
@@ -17191,14 +17191,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身体が落ち着くまで…\\kw[1]"
+                                "Until your body settles down... \\kw[1]\nI'll lick your butt for you... \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お尻舐めててあげるね…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -17262,14 +17262,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅ…\\kw[1]れるっ…\\kw[1]"
+                                "*kiss*... *lick*... *suck*..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んちゅ…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -17315,14 +17315,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ…っ"
+                                "Ah... Yui Onee-san..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "結衣お姉ちゃん…っ"
+                                ""
                             ]
                         },
                         {
@@ -17624,14 +17624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]\\."
+                                "Hehe... The room and your face are all\nsticky..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "部屋も顔もベトベト…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -17680,14 +17680,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当に\\n[1]君ってば"
+                                "\\n[1]-kun is really amazing, you know...\n\\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "凄いんだから…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -17759,14 +17759,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほんと、どこまで"
+                                "Seriously, how far are you shooting\nyour semen already..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "精液飛ばしてるのよもう…"
+                                ""
                             ]
                         },
                         {
@@ -17815,14 +17815,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相変わらず臭いも"
+                                "As usual, the smell and amount are\namazing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "量も凄いし……"
+                                ""
                             ]
                         },
                         {
@@ -17883,14 +17883,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当……"
+                                "Seriously... you're such a sex\nmonster..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "性欲モンスターなんだから…"
+                                ""
                             ]
                         },
                         {
@@ -17975,7 +17975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あはは……"
+                                "Ah, ahaha..."
                             ]
                         },
                         {
@@ -18042,7 +18042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…っ\\kw[1]"
+                                "Hehe... \\kw[1]"
                             ]
                         },
                         {
@@ -18103,14 +18103,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それで……"
+                                "So... what do you think, \\n[1]-kun?\n\\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうかな、\\n[1]君？\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -18192,7 +18192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -18271,14 +18271,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさんと私の"
+                                "Mizuki-san and I giving a double hole\nblowjob... \\kw[1]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "両穴攻めのフェラ…\\kw[1]"
+                                ""
                             ]
                         },
                         {
@@ -18295,7 +18295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少しは刺激になれたかな…？\\kw[1]"
+                                "I wonder if it was a little\nstimulating...? \\kw[1]"
                             ]
                         },
                         {
@@ -18373,7 +18373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……！"
+                                "Ah...!"
                             ]
                         },
                         {
@@ -18444,7 +18444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うん！"
+                                "Y-Yes!"
                             ]
                         },
                         {
@@ -18461,21 +18461,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おちんちんも"
+                                "Being stimulated at the same time, both\nthe penis and the asshole..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お尻の穴も"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "同時に責められて…"
+                                ""
                             ]
                         },
                         {
@@ -18492,14 +18492,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "凄く……"
+                                "It was really... stimulating..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "刺激的だったよ…"
+                                ""
                             ]
                         },
                         {
@@ -18578,7 +18578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まったく…"
+                                "Geez..."
                             ]
                         },
                         {
@@ -18627,14 +18627,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなことシてあげるの"
+                                "We're the only ones who will do\nsomething like this for you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私達だけなんだから…"
+                                ""
                             ]
                         },
                         {
@@ -18651,7 +18651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんとこれで満足しなさいよ？"
+                                "Be satisfied with this properly, okay?"
                             ]
                         },
                         {
@@ -18697,7 +18697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うん…！"
+                                "Y-Yes...!"
                             ]
                         },
                         {
@@ -18764,14 +18764,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これで少しは\\n[1]君の"
+                                "I wonder if \\n[1]-kun's future has\nchanged a little because of this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "未来は変わった……のかな？"
+                                ""
                             ]
                         },
                         {
@@ -18843,7 +18843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……どうだかねぇ～"
+                                "I wonder... how it turned out..."
                             ]
                         },
                         {
@@ -18929,7 +18929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、早速占って見てみますか"
+                                "Well, shall I quickly try to predict\nit?"
                             ]
                         },
                         {
@@ -19293,7 +19293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全然変わってないんですけど"
+                                "It hasn't changed at all."
                             ]
                         },
                         {
@@ -19339,7 +19339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うう…っ！"
+                                "Ugh...!"
                             ]
                         },
                         {
@@ -19418,7 +19418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えーっと……"
+                                "Um..."
                             ]
                         },
                         {
@@ -19435,7 +19435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ刺激し足りない…とか？"
+                                "Not satisfied with the stimulation\nyet...?"
                             ]
                         },
                         {
@@ -19507,7 +19507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンタねえ……"
+                                "You, hey..."
                             ]
                         },
                         {
@@ -19524,14 +19524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっき凄く刺激的だったって"
+                                "You said it was really stimulating\nearlier, didn't you...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "言ってたじゃないのよ……"
+                                ""
                             ]
                         },
                         {
@@ -19609,7 +19609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうなんだけど…"
+                                "W-Well, that's true but..."
                             ]
                         },
                         {
@@ -19658,7 +19658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっと、その……"
+                                "Um, well..."
                             ]
                         },
                         {
@@ -19708,21 +19708,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実はまだ"
+                                "Actually, there's something else I want\nyou to do for me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やってもらいたい"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ことがあって…"
+                                ""
                             ]
                         },
                         {
@@ -19823,7 +19823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほ、他にもあるの！？"
+                                "T-There's more!?"
                             ]
                         },
                         {
@@ -19963,7 +19963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっと…"
+                                "Um..."
                             ]
                         },
                         {
@@ -20006,7 +20006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミズキさん…？"
+                                "Mizuki-san...?"
                             ]
                         },
                         {
@@ -20092,7 +20092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そういえば"
+                                "By the way..."
                             ]
                         },
                         {
@@ -20167,14 +20167,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[14]人間を試験的に"
+                                "The talk about experimentally relocating\nhumans to Mars..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "火星へ移住させる\\c[0]って話……"
+                                ""
                             ]
                         },
                         {
@@ -20235,14 +20235,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……アレ、"
+                                "Hmm, I wonder when that will happen?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつ頃になるのかしらね？"
+                                ""
                             ]
                         },
                         {
@@ -20320,7 +20320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミ、ミズキさぁん！"
+                                "M-Mizuki-san!"
                             ]
                         },
                         {
@@ -20386,14 +20386,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞こうして二人に"
+                                "And so, the two of them received an\nanal licking blowjob!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アナル舐めフェラをしてもらったよ！"
+                                ""
                             ]
                         },
                         {
@@ -20410,14 +20410,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＞普段しない特殊なプレイに大興奮！"
+                                ">I got really excited by a special play\nthat I don't usually do! I ejaculated a\nlot more than usual in an exhilarating\nsexual encounter!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　刺激的なエッチでいつもより沢山射精しちゃったよ！"
+                                ""
                             ]
                         },
                         {
@@ -20459,7 +20459,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "ShowInfo \\I[167]\\c[14]60分経過\\c[0]した！"
+                                "ShowInfo \\I[167]\\c[14]60_minutes_have_passed!\\c[0]"
                             ]
                         },
                         {

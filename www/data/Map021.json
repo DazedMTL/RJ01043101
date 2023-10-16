@@ -2074,21 +2074,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>\\c[14]★ヒロインデータをリセットしますか？\\c[0]\\<"
+                                "\\c[14]Do you want to reset the heroine\ndata?\\c[0] The heroine's status,\nscenario progress, favorability, and\ntotal count will be reset."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\>　ヒロインのステータス、シナリオ進行度\\<"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\>　好感度、累計回数、をリセットします\\<"
+                                ""
                             ]
                         },
                         {
@@ -2096,8 +2096,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "リセットしない",
-                                    "\\c[14]リセットする"
+                                    "Don't reset",
+                                    "Reset?"
                                 ],
                                 -1,
                                 -1,
@@ -2182,7 +2182,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\>\\c[14]★リセットしました。\\c[0]\\<"
+                                "\\c[14]★Reset complete.\\c[0]"
                             ]
                         },
                         {
