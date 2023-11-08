@@ -126,7 +126,7 @@
         "Body",
         "Accessories"
     ],
-    "gameTitle": "Winter Memories(ver2.04)",
+    "gameTitle": "Winter Memories(ver2.12)",
     "gameoverMe": {
         "name": "Gameover1",
         "pan": 0,
@@ -2303,7 +2303,7 @@
         "",
         "",
         "",
-        "",
+        "EX2初追加",
         "----------------------",
         "★キスして【済】",
         "【EXガチャ_初見済】",
@@ -4793,7 +4793,7 @@
         "---------------------",
         "★現在のVersion"
     ],
-    "versionId": 31220435,
+    "versionId": 23035370,
     "victoryMe": {
         "name": "Victory1",
         "pan": 0,
