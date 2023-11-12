@@ -56,7 +56,7 @@
         "order": 1,
         "parentId": 0,
         "scrollX": 601.3333333333334,
-        "scrollY": 408.6666666666667
+        "scrollY": 551.3333333333334
     },
     {
         "id": 11,
@@ -1078,7 +1078,7 @@
     },
     {
         "id": 125,
-        "expanded": true,
+        "expanded": false,
         "name": "【EXシナリオ】",
         "order": 163,
         "parentId": 0,
