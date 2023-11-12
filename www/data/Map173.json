@@ -16729,7 +16729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ohh... \\\\kw[1] Ohh... \\\\kw[1] I'm so\nhappy... \\\\kw[2] Ahh... \\\\kw[2]"
+                                "Ohh... \\kw[1] Ohh... \\kw[1] I'm so\nhappy... \\kw[2] Ahh... \\kw[2]"
                             ]
                         },
                         {
@@ -19501,7 +19501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1]-kun... \\\\kw[1] Ahh... \\\\kw[2]\nAhh... \\\\kw[2]"
+                                "\\n[1]-kun... \\kw[1] Ahh... \\kw[2]\nAhh... \\kw[2]"
                             ]
                         },
                         {
